@@ -1,0 +1,859 @@
+BIO_REGION_ID|ECO_REGION|ECO_REGION_DESCRIPTION|ECO_REGION_ID
+AT18|St. Helena Scrub and Woodlands|St. Helena Island is in the South Atlantic Ocean, 1,950 km west of the African Coast.|60
+AT18|Ascension Scrub and Grasslands|Ascension Island lies in the equatorial Atlantic Ocean, 1,200 km northwest of the Island of St. Helena and 1,700 km from the nearest mainland in Africa. |37
+AT10|Namib Desert|This ecoregion extends along the coastal plain of western Namibia, from the Uniab River in the north to the town of Lüderitz in the south.|103
+AT10|Namibian Savanna Woodlands|This ecoregion covers the narrow escarpment inland of the Namib Desert and broadens gradually towards the south, where it comprises extensive areas of the Nama Karoo plateau south of the town of Mariental.|104
+AT10|Namaqualand-Richtersveld Steppe|This ecoregion extends down the western coast of Namibia from the town of Lüderitz and into South Africa. |102
+AT10|Kaokoveld Desert|This ecoregion stretches along the west coast of southern Africa from the Uniab and Koigab Rivers in Namibia northwards into the Moçâmedes Desert of southern Angola.|98
+AT9|Nama Karoo Shrublands|This ecoregion is a vast, open, arid region dominated by low-shrub vegetation, punctuated by rugged relief.|101
+AT9|Gariep Karoo|This ecoregion is an extensive, open, arid region dominated by low-shrub vegetation, punctuated by rugged relief.|94
+AT9|Kalahari Xeric Savanna|This ecoregion stretches across northwestern South Africa, southern Botswana and central-southeastern Namibia.|97
+AT9|Kalahari Acacia Woodlands|This ecoregion occupies a broad band of land that runs from northern Namibia and extends across to Botswana, just east of the Okavango Delta.|47
+AT8|Highveld Grasslands|The Highland grasslands draw their name from the high interior plateau of South Africa, known as the Highveld.|81
+AT8|Limpopo Lowveld|This ecoregion is one of the world’s key strongholds for southern white and south-central black rhinos.|48
+AT8|Drakensberg Grasslands|This ecoregion is found in southeastern South Africa, primarily within the Kwazulu-Natal province. |41
+AT8|Drakensberg Escarpment Savanna and Thicket|This ecoregion is found alongside the numerous rivers of the Eastern Cape and KwaZulu-Natal Provinces of South Africa.|40
+AT8|Central Bushveld|This ecoregion covers the southeast corner of Botswana and northern South Africa. |38
+AT2|Succulent Karoo Xeric Shrublands|The Succulent Karoo is the world’s only plant hotspot that is entirely arid and hosts the world’s richest succulent dwarf shrub vegetation. |110
+AT2|Renosterveld Shrubland|This ecoregion comprises the upland and lowland Renosterveld Shrubland portion of the world-renowned Cape Floristic Region (CFR) located in southwestern South Africa.|90
+AT2|Fynbos Shrubland|The Fynbos Shrubland ecoregion is located at the southwestern tip of the African continent where it forms part of the Cape Floristic Region (CFR), one of the most biologically diverse regions on earth.|89
+AT2|Albany Thickets|The Albany thicket is a dense, spiny shrubland with a canopy up to 2.5 m in height and usually abundant succulents.|88
+AT2|Knysna-Amatole Montane Forests|This ecoregion is divided into two distinct portions, the Knysna forest along the coast and the Amatole forests further inland. |15
+AT1|Tristan Da Cunha-Gough Islands Shrub and Grasslands|The Tristan da Cunha Island Group is an archipelago of five volcanic islands resting on the east slope of the mid-Atlantic ridge, midway between Africa and South America. |68
+AT19|Western Guinean Lowland Forests|This ecoregion stretches from eastern Guinea, across Sierra Leone and Liberia, to the Sassandra River in south western Côte d’Ivoire.|30
+AT19|Guinean Montane Forests|This ecoregion consists of an array of peaks and plateaus at high elevations that are distinguishable against a backdrop of surrounding lowland forests and savannas.|14
+AT19|Eastern Guinean Forests|This ecoregion extends from the east banks of the Sassandra River in western Côte d’Ivoire to the edge of Lake Volta in Ghana.|11
+AT19|Guinean Mangroves|The Guinean Mangroves are located in western Africa, and encompass mangrove stands along the coastlines of Senegal, Gambia, Guinea-Bissau, Guinea, Sierra Leone, Liberia, and Côte d’Ivoire. |113
+AT19|Jos Plateau Forest-Grassland|This ecoregion rises above the surrounding forest-grassland and savanna ecoregions of northern Nigeria. |82
+AT19|Guinean Forest-Savanna|This ecoregion runs east to west across West Africa, reaching the coast at the Dahomey Gap, a narrow strip of semi-arid habitats in eastern Ghana and Benin.|44
+AT19|Central African Mangroves|This ecoregion is located in western Africa, and the structure of the mangrove areas varies considerably, from the lagoon systems to systems modified by complex patterns of sediment deposition. |111
+AT17|Mount Cameroon and Bioko Montane Forests|This ecoregion occupies the higher elevations of Mount Cameroon on the African mainland and Bioko Island just offshore.|21
+AT17|Cross-Sanaga-Bioko Coastal Forests|This ecoregion extends from the Cross River in southeastern Nigeria, follows the coast as far south as the Sanaga River in Cameroon, and extends inland up to 300 km|7
+AT17|São Tomé, Príncipe, and Annobón Forests|This ecoregion covers the three volcanic islands of Príncipe, São Tomé, and Annobon in the Gulf of Guinea, off the west coast of central Africa.|27
+AT17|Nigerian Lowland Forests|This ecoregion is confined to a narrow, gently undulating coastal plain of 150 m altitude, along the coast in the southwest of Nigeria.|23
+AT17|Niger Delta Swamp Forests|This ecoregion forms a triangle bordered by the town of Aboh at the northernmost tip, the Benin River along the western boundary, and the Imo River along the eastern boundary.|22
+AT17|Cross-Niger Transition Forests|This ecoregion is found in southern Nigeria and most of its relief is low and undulating with few notable topographic features. |6
+AT17|Congolian Coastal Forests|This ecoregion extends from the Sanaga River in west central Cameroon, south through Equatorial Guinea into the coastal and inland areas of Gabon, the Republic of Congo, and the Cabinda Province of Angola.|5
+AT17|Central African Mangroves|This ecoregion is located in western Africa, and the structure of the mangrove areas varies considerably, from the lagoon systems to systems modified by complex patterns of sediment deposition. |111
+AT16|Northern Congolian Forest-Savanna|This ecoregion extends from the Cameroon Highlands east through the Central African Republic, northeastern Democratic Republic of Congo (DRC), South Sudan, and into a sliver of northwestern Uganda.|52
+AT16|Cameroon Highlands Forests|These highland forests cover the mountains of the border region between Nigeria and Cameroon, excluding Mount Cameroon. |2
+AT15|Northwest Congolian Lowland Forests|This ecoregion stretches across four countries—Cameroon, Gabon, Republic of Congo, and the Central African Republic (CAR).|26
+AT15|Northeast Congolian Lowland Forests|These lowland forests, nestled between the Albertine Rift Mountains in the east, the transitional savannah to the north, and the Congo River and its tributaries in the south and west, are teeming with life.|24
+AT14|Central Congolian Lowland Forests|This ecoregion lies in the central part of the Congo Basin, south of the wide arc formed by the Congo River.|3
+AT14|Western Congolian Swamp Forests|This ecoregion consists of dense swamp forests growing extensively along the meandering tributaries of the Congo River.|29
+AT14|Eastern Congolian Swamp Forests|This ecoregion, combined with the neighbouring Western Congolian Swamp Forests, comprises one of the largest swamp forests in the world.|10
+AT13|Western Congolian Forest-Savanna|This ecoregion covers the dissected plateaus bordering the lower Congo River, as it flows through the Democratic Republic of Congo (DRC), Republic of Congo, and northern Angola.|63
+AT13|Southern Congolian Forest-Savanna|The ecoregion covers much of south central Democratic Republic of Congo (DRC) and the northeast corner of Angola.|58
+AT12|Rwenzori-Virunga Montane Moorlands|The ‘Mountains of the Moon’, otherwise known as the Rwenzori mountain range, extends up to 5,108 m at the Margherita summit, Africa’s third tallest peak after Mount Kilimanjaro and Mount Kenya.|86
+AT12|Victoria Basin Forest-Savanna|Centered on Lake Victoria, the ecoregion encompasses most of south-central Uganda, the eastern half of Rwanda and extends marginally into Tanzania, Burundi, Democratic Republic of Congo (DRC), and Kenya.|61
+AT12|Albertine Rift Montane Forests|The Albertine Rift Montane Forests contain the highest levels of faunal endemism in Africa and harbors the mountain gorilla, one of the rarest animals in Africa.|1
+AT11|Southern Rift Montane Forest-Grassland|This ecoregion consists of mountain chains around the western and northern shores of Lake Malawi/Nyasa, and extends to the eastern ranges of Lake Tanganyika. |87
+AT11|Nyanga-Chimanimani Montane Forest-Grassland|This ecoregion covers the mountains that extend along the border between Zimbabwe and Mozambique.|85
+AT11|Mulanje Montane Forest-Grassland|This ecoregion is situated at the southern end of Malawi about 100 km south of Lake Malawi. |84
+AT11|Angolan Montane Forest-Grassland|This ecoregion comprises a number of small montane forest patches surrounded by grasslands and Protea savanna in the west-central highlands of Angola.|77
+AT11|Zambezian Flooded Grasslands|Embedded predominantly within miombo and mopane woodlands, the ecoregion occurs as isolated patches from northern Botswana in the south, to Tanzania in the north.|76
+AT11|Makgadikgadi Halophytics|This ecoregion covers the Makgadikgadi Pan complex in northeastern Botswana which contains two major pans, Ntwetwe Pan and Sua Pan, surrounded by a number of smaller pans.|73
+AT11|Etosha Pan Halophytics|Situated within Etosha National Park, Namibia, the large saline depression is the remnant of a large, inland Pliocene lake and is the largest pan system in Namibia.|70
+AT11|East African Halophytics|This ecoregion encompass saline (soda) lakes, including Lake Natron, Lake Eyasi, and Lake Manyara, situated in the eastern arm of the Rift Valley in Tanzania as well as Lake Magadi in Kenya.|69
+AT11|Zambezian-Limpopo Mixed Woodlands|The Zambezian-Limpopo mixed woodlands are widespread in the lower-lying areas of eastern southern Africa.|66
+AT11|Zambezian Mopane Woodlands|This ecoregion is one of the most important areas for large mammal diversity and biomass in southern Africa, including some of the most significant remaining populations of black rhinoceros and elephants.|65
+AT11|Zambezian Baikiaea Woodlands|This ecoregion is a mosaic of Zambesi Redwood dominated forest, woodland, thicket, and secondary grasslands, which lies on deep Kalahari sands in a wide belt along the Angolan-Namibian border across to Zimbabwe. |64
+AT11|Southern Acacia-Commiphora Bushlands and Thickets|This ecoregion is located in north central Tanzania, and extends into southwestern Kenya on the eastern margins of Lake Victoria. |57
+AT11|Itigi-Sumbu Thicket|Stands of thicket occur in Tanzania close to its namesake town of Itigi near Dodoma, and also in Zambia between Lakes Mweru Wantipa and Tanganyika.|46
+AT11|Dry Miombo Woodlands|This ecoregion includes parts of Tanzania, Mozambique,  Malawi, as well as extending across the Central African Plateau over central Zimbabwe and southern Zambia, and a large area of southwestern Angola.|42
+AT11|Central Zambezian Wet Miombo Woodlands|This ecoregion covers about central and northern Zambia, the southeastern DRC, western Malawi, western Tanzania, and parts of Burundi and northeastern Angola. |39
+AT11|Angolan Wet Miombo Woodlands|This ecoregion covers all of central Angola and extends into the Democratic Republic of Congo (DRC) and is mostly found at elevations between 1,000 and 1,500 m above sea level, including the highlands of Huíla, Huambo, and Bié. |36
+AT11|Angolan Mopane Woodlands|This ecoregion lies on the western edge of the Central African Plateau, at around 1,000 m in elevation along the Owambo Basin.|34
+AT11|Zambezian Evergreen Dry Forests|The ecoregion’s forests are found at 1,100 to 1,200 m elevation in the higher rainfall areas of the Kalahari sands of northern Barotseland in western Zambia, and extend into Angola. |33
+AT11|Eastern Arc Forests|This ecoregion is comprised of thirteen mountain blocks including the Taita Hills, the North and South Pare, the East and West Usambara, the North and South Nguru, the Ukaguru, the Uluguru, the Rubeho, and the Udzungwa. |9
+AT11|Angolan Scarp Savanna and Woodlands|This ecoregion comprises a long narrow strip of land between the Atlantic Ocean, the southwest arid biome of Angola and the top of the scarp face of the Central African Plateau.|35
+AT4|Mascarene Forests|The Mascarene Islands are located 640 to 1,450 km east of Madagascar in the western Indian Ocean. |20
+AT3|Amsterdam-Saint Paul Islands Temperate Grasslands|Amsterdam and Saint-Paul are Subantarctic volcanic islands in the southern Indian Ocean, located approximately 80 km from each other.|67
+AT7|Southern Africa Mangroves|The Southern Africa Mangroves line parts of the eastern South African and southernmost Mozambique coastline along the Indian Ocean.|116
+AT7|East African Mangroves|East African mangroves are found in Mozambique, Tanzania, Kenya, and southern Somalia. |112
+AT7|Zambezian Coastal Flooded Savanna|This ecoregion is restricted to the coastal regions of Mozambique, and essentially comprises the floodplain deltas of the Zambezi, Pungwe, Buzi, and Save Rivers.|75
+AT7|Southern Swahili Coastal Forests and Woodlands|This ecoregion runs approximately 2,200 km along the eastern coast of Africa, from the Lukuledi River in southern Tanzania to the Changane River just south of Xai-Xai.|28
+AT7|Northern Swahili Coastal Forests|This ecoregion ranges from coastal Somalia to southern Tanzania. Outliers are found at the base of the Uluguru, Nguru, and Udzungwa Eastern Arc Mountains, and on the islands of Pemba, Unguja (Zanzibar), and Mafia.|25
+AT7|Maputaland Coastal Forests and Woodlands|This ecoregion extends from the Changane River in southern Mozambique to the Umfolosi River just north of Cape Saint Lucia in South Africa. |19
+AT7|Kwazulu Natal-Cape Coastal Forests|This ecoregion extends south along the eastern South African coastline from Cape St Lucia to Cape St Francis.|16
+AT6|Madagascar Mangroves|This ecoregion contains mangrove forests found primarily along the western coast.|114
+AT6|Madagascar Succulent Woodlands|This ecoregion is located in southwestern and central western Madagascar, sandwiched between the Madagascar Spiny Thickets and the Madagascar Dry Deciduous Forests.|100
+AT6|Madagascar Spiny Thickets|This ecoregion extends across southern and southwestern Madagascar from the Mangoky River on the west coast to the western slopes of the Anosyennes Mountain chain in the southeast. |99
+AT6|Ile Europa and Bassas Da India Xeric Scrub|The islands of Europa and Bassas da India lie in the Mozambique Channel near the southern end of Madagascar.|96
+AT6|Madagascar Ericoid Thickets|This ecoregion includes the ericoid thicket habitats found above approximately 1,800 m on the upper slopes of Madagascar’s four major massifs: Tsaratanana, Marojejy, Ankaratra, and Andringitra.|83
+AT6|Madagascar Dry Deciduous Forests|This ecoregion occurs in two separate geographic regions. The first is on the western side of Madagascar from the Ampasindava Peninsula in the north to Belo-sur-Tsiribihina and Maromandia in the south.|32
+AT6|Madagascar Subhumid Forests|This ecoregion is located in the highlands of Madagascar in between the humid forests at the crest of the eastern escarpment and the dry deciduous forests on the western boundary.|18
+AT6|Madagascar Humid Forests|This ecoregion occupies the eastern side of Madagascar, including the littoral forests of the narrow coastal plain and up to the crest of the eastern escarpment around 1,200 – 1,600 m.|17
+AT5|Granitic Seychelles Forests|The 115 islands making up the Seychelles are located in the Indian Ocean, about 930 km northeast of Madagascar. |13
+AT5|Comoros Forests|This ecoregion covers the Comoros Islands which are found approximately 300 km from northern Madagascar and about 300 km from the mainland of East Africa. |4
+AT5|Aldabra Island Xeric Scrub|This ecoregion occupies the island of Aldabra, one of the largest atolls in the world. |91
+AT23|Lake Chad Flooded Savanna|This ecoregion includes Lake Chad and the nearby Hadejia-Nguru wetlands. Lake Chad straddles the borders between four African countries: Cameroon, Chad, Niger, and Nigeria. |72
+AT23|Sahelian Acacia Savanna|This ecoregion stretches across Africa from northern Senegal and Mauritania on the Atlantic coast to Sudan and Eritrea on the Red Sea. |53
+AT23|Inner Niger Delta Flooded Savanna|This ecoregion contains the inland delta of the Niger River in central Mali between Djenné in the south and Tombouctou in the north. |71
+AT22|Southwest Arabian Highland Xeric Scrub|This ecoregion is situated in the high altitude plains of the southwestern Arabian highlands including part of Saudi Arabia and the western highlands of Yemen. |109
+AT22|Southwest Arabian Escarpment Shrublands and Woodlands|This ecoregion is situated in the southwestern Arabian highlands and includes part of the Asir Mountains of Saudi Arabia and most of the western highlands of Yemen.|108
+AT22|Southwest Arabian Coastal Xeric Shrublands|The western side of the Asir Mountains and Yemen highlands drop sharply to a low, flat coastal plain, the Tihamah, where this ecoregion is found.|107
+AT22|Socotra Island Xeric Shrublands|The ecoregion covers a small archipelago of islands east of the Horn of Africa and south of the Arabian Coast. |105
+AT22|Eritrean Coastal Desert|The Eritrean Coastal Desert runs along the southern coast of the Red Sea from Balfair Assoli in Eritrea to Ras Bir near Obock in Djibouti.|93
+AT22|Djibouti Xeric Shrublands|This ecoregion extends from the Sudanese-Eritrean border, south through Ethiopia to Djibouti, and eastwards into Somalia—in the Somaliland region of the country, as well as extending into the center of Ethiopia. |92
+AT22|Southwest Arabian Montane Woodlands and Grasslands|This ecoregion is situated in the southwestern Arabian highlands above 2,000 m.|59
+AT22|South Arabian Fog Woodlands, Shrublands, and Dune|This ecoregion covers much of the south eastern coasts of the Arabian Peninsula.|56
+AT22|Red Sea Mangroves|This ecoregion consists of small scattered patches of mangrove stands along the Red Sea coast in Djibouti, Northern Somalia, Sudan, Egypt, Yemen, Saudi Arabia, and Eritrea.|115
+AT22|Somali Montane Xeric Woodlands|The ecoregion stretches along the coast of Somalia through the regions of Somaliland and Puntland.|106
+AT22|Hobyo Grasslands and Shrublands|This ecoregion covers a long, narrow coastal strip in Somalia, extending from just south of Mogadishu near the town of Merka northwards to 250 km north of Hobyo.|95
+AT22|Horn of Africa Xeric Bushlands|This ecoregion occupies the majority of the Horn of Africa.|45
+AT21|East African Montane Moorlands|This ecoregion occupies the peaks of large mountains close to the equator in Kenya, northernmost Tanzania, and the border area between Kenya and Uganda.|78
+AT21|Somali Acacia-Commiphora Bushlands and Thickets|This ecoregion occupies the majority of the Horn of Africa to the east of the Ethiopian Highlands, including the Ogaden Desert and northeast Kenyan semi-deserts.|55
+AT21|East African Montane Forests|This ecoregion encompasses moderate to high altitude habitats along a chain of isolated mountains flanking the Rift Valley.|8
+AT21|Jos Plateau Forest-Grassland|This ecoregion rises above the surrounding forest-grassland and savanna ecoregions of northern Nigeria. |82
+AT21|Ethiopian Montane Moorlands|This ecoregion covers the higher parts of the Ethiopian Highlands Massif, from 3,000 m to over 4,500 m. |80
+AT21|Ethiopian Montane Grasslands and Woodlands|This ecoregion covers the majority of two Ethiopian Mountain massifs ranging from 1,800 to 3,000 m in elevation.|79
+AT21|Sudd Flooded Grasslands|This ecoregion is located in South Sudan and comprises one of the largest swamps in Africa and is also one of the largest floodplain wetlands in the world—about 600 km long and a similar distance wide. |74
+AT21|Masai Xeric Grasslands and Shrublands|This ecoregion is located in the northern part of Kenya and extreme southwestern Ethiopia.|50
+AT21|Mandara Plateau Woodlands|This ecoregion is located along the border between northeastern Nigeria and northwestern Cameroon.|49
+AT21|East Sudanian Savanna|This ecoregion lies south of the Sahel in central and eastern Africa, and is divided into a western block and an eastern block by the Sudd Flooded Grasslands ecoregion.|43
+AT21|Ethiopian Montane Forests|The forests that remain on the rugged highlands of Ethiopia support high species richness and endemism.|12
+AT21|Northern Acacia-Commiphora Bushlands and Thickets|This ecoregion extends from the southeast corner of Sudan and northeast Uganda, through much of lowland Kenya.|51
+AT20|West Sudanian Savanna|This ecoregion stretches across West Africa from Senegal and The Gambia to the eastern border of Nigeria. |62
+AT24|Cape Verde Islands Dry Forests|The Cape Verde Islands consist of ten islands and five islets and are located in the eastern Atlantic Ocean approximately 500 km from the coast of Senegal, West Africa.|31
+AN3|Southern Indian Ocean Islands Tundra|This ecoregion encompasses five island groups in the southern Indian Ocean (or Southern Ocean): Prince Edward (South Africa), Crozet, Kerguelen (France), and Heard and McDonald Islands (Australia).|133
+AN2|South Orkney Islands Tundra|This is the most northerly of all the Antarctic ecoregions, separated from the closest ecoregion by 600 km of water and with a distinctive climate and rich biodiversity. |131
+AN2|Scotia Sea Islands Tundra|This ecoregion is made up of several islands across three main groups. These are some of the wildest and most inhospitable islands on Earth.|129
+AN2|Northwest Antarctic Peninsula Tundra|This ecoregion is one of the most biologically diverse of all the Antarctic ecoregions. It includes all of the ice-free land on the northern tip and western side of the Antarctic Peninsula. |127
+AN2|Northeast Antarctic Peninsula Tundra|This ecoregion is situated on the north-eastern tip of the Antarctic Peninsula and includes parts of Deception Island, parts of Joinville Island, and parts of the mainland Antarctic Peninsula.|126
+AN2|Central South Antarctic Peninsula Tundra|This ecoregion sits in the middle of the Antarctic Peninsula, between the Northwest Antarctic Peninsula Tundra and South Antarctic Peninsula Tundra ecoregions.|118
+AN2|South Antarctic Peninsula Tundra|This ecoregion is made up of the south-most ice-area area of the Antarctic Peninsula.|130
+AN2|Prince Charles Mountains Tundra|This ecoregion contains the ice-free area between the Enderby Land Tundra ecoregion and the western extent of the East Antarctica tundra ecoregion. |128
+AN1|North Victoria Land Tundra|This ecoregion is the third largest ecoregion in Antarctica consisting of large areas of connected permanently ice-free land, much of it forming deep valleys and high ridges.|125
+AN1|Transantarctic Mountains Tundra|This ecoregion is by the far the largest of all the Antarctic ecoregions, at almost 20,000 km. |134
+AN1|South Victoria Land Tundra|This ecoregion has large areas of connected ice-free land, including the Dry Valleys, which are known as one of the most extreme environments on the planet.|132
+AN1|Marie Byrd Land Tundra|This ecoregion is one of the most remote and isolated ecoregions on the continent consisting of patchily distributed ice-free land across a relatively broad area.|124
+AN1|Enderby Land Tundra|This ecoregion is one of the more coastal ecoregions in Antarctica, consisting of rather patchily distributed permanently ice-free land, particularly along the coastal margins.|123
+AN1|Ellsworth Mountains Tundra|This ecoregion are made up of the permanently ice-free land in the mountainous and inhospitable region to the south of the Antarctic Peninsula.|122
+AN1|Ellsworth Land Tundra|This ecoregion lies between the Bellingshausen and Amundsen Seas and includes the area traditionally known as Ellsworth Land, Thurston Island, and a number of small offshore islands in the Amundsen Sea.|121
+AN1|East Antarctic Tundra|This ecoregion is composed of ice-free patches of land distributed along of the east Antarctic coastline, stretching for over 2,500 km.|120 
+AN1|Dronning Maud Land Tundra|This ecoregion is a largely inland system of ice-free areas that are patchily distributed at the western end and tend to be clumped and more connected, with larger ice-free areas, at the eastern end. |119
+AN1|Adelie Land Tundra|This is the smallest ecoregion in the Antarctic continental bioregion, comprised of small patches of permanently ice-free land, largely distributed along the coast.|117
+AU2|Norfolk Island Subtropical Forests|The Norfolk Island group is situated on a submarine ridge that runs between New Caledonia and the North Island of New Zealand.|147
+AU2|Lord Howe Island Subtropical Forests|The Lord Howe Island Group are the remnants of ancient volcanoes, and the main island, Lord Howe Island, is small.|142
+AU1|Chatham Island Temperate Forests|The remote Chatham Islands are 800 kilometers east of the South Island of New Zealand. |167
+AU1|New Zealand South Island Montane Grasslands|This ecoregion encompasses the Southern Alps, the highest alpine region in New Zealand, with snow and ice fields, as well as a variety of alpine habitats. |194
+AU1|Canterbury-Otago Tussock Grasslands|This ecoregion lies in the rain shadow of the Southern Alps.|190
+AU1|Westland Temperate Forests|This high rainfall ecoregion covers the narrow lower-elevation forests of New Zealand’s South Island central coast. |180
+AU1|Richmond Temperate Forests|The imposing, hand-sized Kaikoura giant weta conotes the great age and isolation of the plants and animals of New Zealand and the Richmond forests. |175
+AU1|Rakiura Island Temperate Forests|Rakiura Island (Stewart) just south of the South Island of New Zealand supports one of the most southern temperate rainforests in the world.|174
+AU1|Northland Temperate Kauri Forests|Many rare, endemic, and threatened species occur on offshore islands, such as the Three Kings Islands and the Poor Knights Islands.|173
+AU1|New Zealand South Island temperate forests|This remains the largest native forest on the east coast of South Island, New Zealand.|172
+AU1|New Zealand North Island temperate forests|In the temperate forests of the North Island, dense podocarp and mixed beech/podocarp forests covered lower elevation landscapes. |171
+AU1|Nelson Coast Temperate Forests|The temperate rainforests of the Nelson coast are a globally rare habitat type.|170
+AU1|Fiordland Temperate Forests|Fiordland at the southwest corner of New Zealand’s South Island is notable for some of the highest levels of endemism of any temperate or alpine area in the world. |169
+AU16|Antipodes Subantarctic Islands Tundra|This ecoregion consist of five island groups scattered across the cold, wet, and windy Southern Ocean south of New Zealand and Australia―Bounty Islands, Auckland Islands, Antipodes Islands, Campbell Island, and Macquarie Island.|196
+AU15|Timor and Wetar Deciduous Forests|This ecoregion represents the semi-evergreen dry forests of Timor, Wetar, and some smaller islands in the provinces of Nusa Tenggara and Maluku in the eastern Indonesian Archipelago.|166
+AU15|Sumba Deciduous Forests|This ecoregion represents the semi-evergreen forests on the island of Sumba, in the eastern Indonesian Archipelago. |165
+AU15|Lesser Sundas Deciduous Forests|This ecoregion represents the semi-evergreen dry forests in the Lesser Sunda Islands.|163
+AU14|Sulawesi Montane Rainforests|Sulawesi is at the crossroads of Southeast Asia, New Guinea, and Australia, yet its deep water isolation has driven the evolution of numerous unique species. |157
+AU14|Sulawesi Lowland Rainforests|The islands are located in the region known as Wallacea, which contains a distinctive fauna representing a mix of Asian and Australasian species. |156
+AU14|Seram Rainforests|Located between New Guinea and Southeast Asia, this island supports lineages from both biotas.|151
+AU14|Halmahera Rainforests|This ecoregion represents the moist forests on Halmahera, Morotai, Obi, Bacan, and the other nearby Maluku Islands in the northeastern Indonesian Archipelago.|140
+AU14|Buru Rainforests|Buru Island is a long-isolated stepping stone for plants and animals between Southeast Asia and New Guinea. |138
+AU14|Banda Sea Islands Moist Deciduous Forests|This ecoregion is comprised of several islands scattered along an arc between the large islands of Timor-Leste and Papua New Guinea in the Pacific Ocean.|136
+AU13|New Guinea Mangroves|New Guinea's mangroves are among the world’s largest and most intact wetlands, and are found along extensive lengths of its coastline.|217
+AU13|Papuan Central Range Sub-Alpine Grasslands|Tall, wet, tropical, and isolated define New Guinea’s Central Range alpine habitats. Puncak Jaya stands as the highest peak in Australasia and the tallest island mountain in the world, capped by Equatorial glaciers. |195
+AU13|Trans Fly Savanna and Grasslands|The Trans Fly Savanna and Grasslands ecoregion is one of the most extensive lowlands on the island of New Guinea. |188
+AU13|Yapen Rainforests|Yapen lies across Cenderawasih Bay and was once connected to Papua New Guinea.|162
+AU13|Vogelkop-Aru Lowland Rainforests|This ecoregion covers the lowland and sub-montane forests, less than 1,000 m in elevation, along the middle of the Bird’s Head (Vogelkop) peninsula, and in Bomberai peninsula, south of the main Bird’s Head peninsula.|161
+AU13|Vogelkop Montane Rainforests|The northwestern part of Papua New Guinea is known variously as Vogelkop, Bird’s Head Peninsula, or Burung Kepala in Indonesian, for its bird head shape.|160
+AU13|Trobriand Islands Rainforests|This ecoregion lies just off the southeastern tip of Papua New Guinea in the southwest Pacific and includes Woodlark Island and two island groups: the D'Entrecasteaux and the Trobriand.|158
+AU13|Southern New Guinea Lowland Rainforests|This ecoregion stretches across the lowland forests south of the Central Cordillera of Indonesian Irian Jaya and Papua New Guinea.|155
+AU13|Southern New Guinea Freshwater Swamp Forests|This ecoregion consists of a large extent in south-central New Guinea and a smaller, disjunct patch along the southern coast of the Vogelkop Peninsula in West Papua.|154
+AU13|Southeastern Papuan Rainforests|This lowland and montane ecoregion is made up of the Owen Stanley Range and surrounding lowland and coastal areas.|153
+AU13|Northern New Guinea Montane Rainforests|This ecoregion is comprised of the Van Rees, Gauttier, Cyclops, Denake, Bewani, Torricelli, Prince Alexander, and Adelbert Ranges. |149
+AU13|Northern New Guinea Lowland Rain and Freshwater Swamp Forests|The lowlands of northern New Guinea are a maze of freshwater and peat swamps that interlace tall lowland forests and tall-grass savannas.|148
+AU13|New Britain-New Ireland Montane Rainforests|Mossy cloud forests covered in epiphytes top the high mountains of New Britain and New Ireland.|145
+AU13|New Britain-New Ireland Lowland Rainforests|The Bismarck Archipelago is dominated by New Britain and New Ireland, though St. Matthias Islands, New Hanover, and many associated islands are also part of the archipelago.|144
+AU13|Louisiade Archipelago Rainforests|Located far to the east of the island of New Guinea, the idyllic Louisiade Archipelago supports rain forests with many endemic plants and animals.|143
+AU13|Huon Peninsula Montane Rainforests|The climate of this ecoregion is tropical wet, which is characteristic of this part of Melanesia, located in the western Pacific Ocean north of Australia.|141
+AU13|Central Range Papuan Montane Rainforests|This ecoregion covers the mountain spine of the island of New Guinea.|139 
+AU13|Biak-Numfoor Rainforests|This ecoregion covers Biak and Numfoor islands that stand guard at the entrance of Cenderawasih Bay constricting the western part of Papua New Guinea to form Bird’s Head Peninsula.|137
+AU13|Admiralty Islands Lowland Rainforests|This group of remote oceanic islands that comprise the ecoregion are volcanic in origin, dating back to the late Miocene 8 to 10 million years ago. |135
+AU11|Vanuatu Rainforests|This ecoregion consists of tropical lowland and montane forests in the island nation of Vanuatu (formerly New Hebrides), with the addition of the Santa Cruz Group, or Temotu Province of the Solomon Islands. |159
+AU10|New Caledonia Dry Forests|The dry forests of New Caledonia contain a unique assemblage of plants with 59 endemic species.|164
+AU10|New Caledonia Rainforests|The long isolation of this group of South Pacific islands―an errant chunk of ancient Gondwanaland consisting of New Caledonia and Loyalty Islands―has driven the evolution of a biota that is globally distinctive.|146
+AU12|Solomon Islands Rainforests|The Solomon Islands are an arc of high oceanic islands clothed in rain forests and surrounded by blue coral-filled seas.|152
+AU9|Cape York Peninsula Tropical Savanna|This ecoregion's location and diverse habitats make for a rich biota representing one quarter of Australia’s frogs, one quarter of its reptiles, a third of all mammals, and half of its birds represented.|183
+AU9|Queensland Tropical Rainforests|Northeast Australia’s relict tropical rainforests are notable for ancient lineages of plants and animals and strong affinities with the tropical forests of New Guinea to the north.|150
+AU9|Brigalow Tropical Savanna|This ecoregion is a transition from wetter coastal forests of eastern Australia to the drier semi-arid and arid zones of the continent’s center.|182
+AU8|Victoria Plains Tropical Savanna|The Victoria Plains are a transition zone between the monsoonal rain environments of northern Australia and the dry arid interior of the continent.|189
+AU8|Mitchell Grass Downs|Mitchell grasses dominate vast treeless, rolling plains that stretch from central west Queensland into the Barkly Tableland on the northeast fringe of Australia’s central deserts.|187
+AU8|Kimberly Tropical Savanna|The deep gorges and steep cliffs of the rugged central ranges of the Kimberly have long functioned as climate microrefugia for many moisture-loving species.|186
+AU8|Einasleigh Upland Savanna|Moving inland and upwards from the coastal Queensland rainforests, the drier Einasleigh Upland Savanna supports ironbark woodlands, wetlands, and drier rainforests.|185
+AU8|Carpentaria Tropical Savanna|This ecoregion encompasses a long arc of depositional plains along the southern Gulf of Carpentaria.|184
+AU8|Arnhem Land Tropical Savanna|Arnhem Land is notable for its vast relatively natural landscapes, mosaics of floodplains, woodlands, wetlands, sedgelands, mangroves, and pockets of vine-filled monsoonal rainforest.|181
+AU7|Western Australian Mulga Shrublands|This ecoregion is mostly covered by mulga trees, a type of acacia adapted to hot and arid climate through long tap roots that access water. |216
+AU7|Tirari-Stuart Stony Desert|Ancient gibber pebble plains, sand dunes, ephemeral gilgal lakes, salt lakes, and xeric grasslands cover the Tirari-Sturt stony desert, one of the driest areas of Australia.|215
+AU7|Simpson Desert|This ecoregion has low relief characterized by flood and alluvial plains, ephemeral lakes and claypans.|214
+AU7|Nullarbor Plains Xeric Shrublands|The Nullarbor Plain is flat, featureless, and treeless, riddled with caves and sinkholes in this uplifted ancient seabed—the world’s largest limestone plain.|212
+AU7|Great Victoria Desert|The Great Victoria Desert is a global hotspot for reptile diversity, with the colourful thorny devil being one of the most spectacular.|211
+AU7|Great Sandy-Tanami Desert|This expansive ecoregion encompasses the Little Sandy Desert, Great Sandy Desert, and Tanami Desert Interim Biogeographic Regionalization for Australia (IBRA) regions.|210
+AU7|Gibson Desert|The broad gravel and red sand plains and dunes of the Gibson Desert are home to one to the world’s most diverse communities of reptiles.|209
+AU7|Central Ranges Xeric Scrub|This ecoregion includes red-soils of mulga (Acacia aneura) shrubland and grasslands of the Central Ranges at the heart of Australia.|208
+AU6|Pilbara Shrublands|This ecoregion displays unusually high levels of endemism derived, in part, from its ancient landscapes, complex habitats, and relative isolation.|213
+AU6|Carnarvon Xeric Shrublands|This ecoregion includes the dry shrublands of this remote region in western Australia. |207
+AU5|Southwest Australia Woodlands|This ecoregion occurs in the Southwest Australia global biodiversity hotspot, one of the five Mediterranean-type ecosystems around the world that are known for exceptionally high endemism and richness of plant species. |206
+AU5|Southwest Australia Savanna|The southwest savannas are a transition zone between the arid center of Australia and the long-isolated biodiversity hotspot of southwest Australia.|205
+AU5|Jarrah-Karri Forest and Shrublands|The tall, wet forests of the southwestern tip of Australia are an isolated refuge for wet forest species separated from Australia’s eastern moist forests by the arid center of the continent.|202
+AU5|Hampton Mallee and Woodlands|This ecoregion occurs on ancient marine dunes and sediments uplifted along the southern coast of Australia.|201
+AU5|Flinders-Lofty Montane Woodlands|North-south ranges and hills dominate this small ecoregion, situated in southern east-central Australia.|200
+AU5|Eyre and Yorke Mallee|The mallee woodlands and shrublands of southern Australia are hotspots for plant biodiversity, an outstanding feature of the five Mediterranean-climate regions in the world.|199
+AU5|Esperance Mallee|This ecoregion is one of the world’s greatest concentrations of unique plants, being one of the richest ecoregions within the Southwest Australia (SWA) Mediterranean-climate global botanical hotspot.|198
+AU5|Coolgardie Woodlands|This ecoregion includes a transition woodland between the Mediterranean-climate of Australia’s south-west coast and the continent’s arid interior.|197
+AU4|Naracoorte Woodlands|The Mediterranean-climate woodlands of the Naracoorte represent a globally-rare habitat type adapted to cool, wet winters and hot, dry summers.|204
+AU4|Murray-Darling Woodlands and Mallee|This is one of the world’s rare Mediterranean-climate ecoregions, all notable for rich concentrations of endemic plants. |203
+AU4|Southeast Australia Temperate Savanna|This ecoregion is a transition between the moist eastern coastal margin and the arid central interior Australia.|192
+AU4|Eastern Australia Mulga Shrublands|Low mulga woodlands and shrublands dominate the infertile soils of this ecoregion.|191
+AU3|Australian Alps Montane Grasslands|The southern portion of the Great Dividing Range in southeast Australia has peaks reaching 2,228 m, making it the highest massif on the continent and the only ecoregion with alpine ecosystems.|193
+AU3|Tasmanian Temperate Rainforests|This ecoregion includes rainforests of western Tasmania which are among the world’s oldest forests.|179
+AU3|Tasmanian Temperate Forests|This ecoregion houses Eucalypt woodlands, wombats, wallaby, kangaroo, echidnas, platypus, and tasmanian devils.|178
+AU3|Tasmanian Central Highland Forests|This ecoregion features a series of mountain peaks covered in unusual plant communities.|177
+AU3|Southeast Australia Temperate Forests|This ecoregion covers the coastal lowlands and inland tablelands that lie inland of the Great Dividing Range and Australian Alps. |176
+AU3|Eastern Australian Temperate Forests|This wetter coastal ecoregion has acted as refuge for wet forest species for millions of years and many endemic and relictual species occur here.|168
+NT24|Southern Mesoamerican Pacific Mangroves|The Southern Mesoamerican Pacific Mangrove ecoregion comprises five subecoregions.|617
+NT24|Mesoamerican Gulf-Caribbean Mangroves|The Mesoamerican Gulf-Caribbean Mangroves ecoregion holds eleven subecoregions. The mangrove fragments remaining across this ecoregion are important refuges for many breeding and migratory species. |613
+NT24|Malpelo Island Xeric Scrub|Malpelo Island is a small, isolated Pacific island 435 km to the west of Colombia and south of Panama.|604
+NT24|Panamanian Dry Forests|This ecoregion is distributed in distinct areas, such as small residual deciduous and semi-deciduous forests and gallery forests along the rivers.|541
+NT24|Talamancan Montane Forests|Located in the highlands of Costa Rica and western Panama, the Talamanca Montane Forests ecoregion occurs above 750 m and above 1,500 m in some places on the Pacific slope, up to approximately 3,000 m.|506
+NT24|Magdalena-Urabá Moist Forests|Located in northern Colombia, the moist forests of the Magdalena-Urabá ecoregion link the northern ecoregions of Mesoamerica and the Chocó with the Andean and Amazonian ecoregions.|478
+NT24|Isthmian-Pacific Moist Forests|This ecoregion extends along the Pacific lowlands and foothills of southern Costa Rica and Panama. |471
+NT24|Isthmian-Atlantic Moist Forests|This ecoregion covers the lowland Atlantic slopes mainly below 500 m elevation in southern Nicaragua, northern Costa Rica, and most of Panama. |470
+NT24|Eastern Panamanian Montane Forests|The eastern Panamanian Montane Forests are located in the southeastern portion of Panama, in the Darién Province.|461
+NT24|Chocó-Darién Moist Forests|This ecoregion extends from eastern Panama, in the provinces of Darién and Kuna-Yala, along almost the entire Pacific Coast of Colombia.|454
+NT24|South American Pacific Mangroves|The South American Pacific Mangrove ecoregion is comprised of five subecoregions.|615
+NT27|Belizian Pine Savannas|This ecoregion is found almost entirely in Belize along the northwestern coast of the Caribbean.|564
+NT27|Yucatan Dry Forests|This ecoregion is on the northwestern portion of the Yucatán Peninsula in Mexico.|551
+NT27|Veracruz Dry Forests|The region is in the coastal plain of central Veracruz, north of the Santa Martha and San Andrés volcanoes.|550
+NT27|Yucatan Moist Forests|The Yucatán Moist Forests are located at the junction between the physiographical provinces of Petén in the southeast and the Yucatán in the northwest.|519
+NT27|Veracruz Montane Forests|The Veracruz Montane Forests are located in the Mexican State of Veracruz and are remnant of the Sierra Madre Oriental mountain range. |515
+NT27|Veracruz Moist Forests|This moist forest ecoregion is situated on the Gulf of Mexico’s northeastern coastal plain of Mexico, in the north of Veracruz and the south of Tamaulipas states. |514
+NT27|Sierra De Los Tuxtlas|Sierra de los Tuxtlas constitutes the largest and northernmost intact portion of moist forests in Mexico.|501
+NT27|Petén-Veracruz Moist Forests|Spanning West to East along southeastern Mexico, the ecoregion narrows where the Mexican states of Veracruz, Oaxaca and Puebla meet, and continues as a wide strip of land towards the southeast.|494
+NT27|Pantanos De Centla|The Pantanos de Centla Moist Forests are in the state of Tabasco, Mexico.|489
+NT27|Mesoamerican Gulf-Caribbean Mangroves|The Mesoamerican Gulf-Caribbean Mangroves ecoregion holds eleven subecoregions. The mangrove fragments remaining across this ecoregion are important refuges for many breeding and migratory species. |613
+NT29|Clipperton Island Shrub and Grasslands|Clipperton Island, also referred to as “Ile de la Passion”, falls under the jurisdiction of the Republic of French Polynesia. |568
+NT29|Islas Revillagigedo Dry Forests|Volcanic activity from the Pleistocene gave rise to the four Revillagigedo Islands: Socorro, Clarión, San Benedicto, and Roca Partida, located approximately 390 km southwest of Cabo San Lucas in Mexico.|533
+NT28|Northern Mesoamerican Pacific Mangroves|The Northwest Mexican Coast Mangroves are composed of two main mangrove areas located on the Pacific Coast and on the Gulf of California coast.|614
+NT28|Tehuacán Valley Matorral|The Tehuacán Valley Matorral ecoregion is situated in southeast Puebla and northwestern Oaxaca states in Mexico.|610
+NT28|San Lucan Xeric Scrub|The San Lucan Xeric Scrub ecoregion includes the southernmost part of the Baja California peninsula. |607
+NT28|Trans-Mexican Volcanic Belt Pine-Oak Forests|The Trans-volcanic belt is a large mountain range running from west to east in the central portion of Mexico. |559
+NT28|Sierra Madre Del Sur Pine-Oak Forests|Most of this ecoregion falls within the Guerrero and Oaxaca states.|558
+NT28|Sierra Madre De Oaxaca Pine-Oak Forests|This ecoregion is located in northern Oaxaca State, and is delineated by the Sierra Norte de Oaxaca Mountains, which have characteristically abrupt and rugged topography.|557
+NT28|Sierra de la Laguna Pine-Oak Forests|This ecoregion is contained in a larger area known as the Cape Region and constitutes the southernmost part of the Baja California Peninsula.|556
+NT28|Southern Pacific Dry Forests|This ecoregion is located on the southeastern slopes of the Sierra Madre del Sur Mountains, which give way to a narrow fringe of coastal plains on which the dry forests of this ecoregion are found. |547
+NT28|Sinaloan Dry Forests|The Sinaloan Dry Forests ecoregion is situated in the northwestern Pacific coastal plain of Mexico.|545
+NT28|Sierra de la Laguna Dry Forests|Located at the southern end of the Baja California peninsula, this region was once an isolated island before joining the mainland.|544
+NT28|Jalisco Dry Forests|The Jalisco Dry Forests are located along the Pacific coast of the Mexican states of Nayarit, Jalisco, and Colima.|534
+NT28|Balsas Dry Forests|The Balsas Dry Forest ecoregion is in southern Mexico, south of the mountainous Trans-volcanic belt.|522
+NT28|Bajío Dry Forests|This ecoregion is situated in western central Mexico, and forms part of the central trans-volcanic belt.|521
+NT28|Oaxacan Montane Forests|Among the largest intact montane forests of southern Mexico, this ecoregion houses the highest diversity of amphibians and reptiles in the country. |487
+NT25|Southern Mesoamerican Pacific Mangroves|The Southern Mesoamerican Pacific Mangrove ecoregion comprises five subecoregions.|617
+NT25|Miskito Pine Forests|These coastal pine forests of the Caribbean coast and of the Honduras and Nicaragua lowlands contrast sharply with the surrounding tropical moist forest.|573
+NT25|Central American Pine-Oak Forests|This ecoregion incorporates the central Mexican state of Chiapas, southern Guatemala, most of Honduras and El Salvador, and small areas of west central Nicaragua.|553
+NT25|Chiapas Depression Dry Forests|The most extensive dry forests in the state of Chiapas, Mexico lies on a vast portion of flat lands called the Central Chiapas Depression. |528
+NT25|Central American Dry Forests|The Central American Dry forest ecoregion stretches along the Pacific Coast of southern Chiapas, Mexico to Guanacaste, Costa Rica.|527
+NT25|Sierra Madre De Chiapas Moist Forests|The species rich and diverse moist forests of Chiapas lie on both sides of the Sierra Madre de Chiapas.|502
+NT25|Costa Rican Seasonal Moist Forests|The Costa Rican Seasonal Moist Forests ecoregion is a transitional subtropical habitat between the surrounding wet and dry forest ecoregions.|458
+NT25|Cocos Island Moist Forests|Cocos Island in the central eastern Pacific Ocean lies 523 km southwest of Cabo Blanco, in Costa Rica.|455
+NT25|Chimalapas Montane Forests|The Chimalapas Montane Forests occur in mountains above approximately 1,000 m at the junction of the three most biodiverse states of Mexico: Veracruz, Oaxaca, and Chiapas.|453
+NT25|Chiapas Montane Forests|This ecoregion is located in the state of Chiapas, Mexico, on the northeast mountain range, with elevations from 1,200-2,200 m.|452
+NT25|Central American Montane Forests|The Central American Montane Forests ecoregion comprised of more than 40 relatively small islands extending from southern Mexico towards the southeast through Guatemala, El Salvador, Honduras, and Nicaragua. |451
+NT25|Central American Atlantic Moist Forests|This ecoregion is located along the Caribbean lowlands of Central America through southeast Guatemala.|450
+NT25|Cayos Miskitos-San Andrés and Providencia Moist Forests|This ecoregion is formed by the moist forests of the Cayos Miskitos, San Andrés, and Providencia Islands.|449
+NT25|Mesoamerican Gulf-Caribbean Mangroves|The Mesoamerican Gulf-Caribbean Mangroves ecoregion holds eleven subecoregions. The mangrove fragments remaining across this ecoregion are important refuges for many breeding and migratory species. |613
+NT25|Motagua Valley Thornscrub|The Motagua Valley is situated in northeastern Guatemala along the border of Honduras.|605
+NT26|Puerto Rican Moist Forests|Montane forests cover the Sierra de Luquillo and the higher peaks of the Cordillera Central.|495
+NT26|Bahamian-Antillean Mangroves|The Bahamas islands ecoregion consist of over 3,000 low-lying islands with a maximum elevation of 60 m.|612
+NT26|Cuban Cactus Scrub|This ecoregion is dispersed in strips or small patches along Cuba’s shore, particularly in the southeastern part of the island. |600
+NT26|Caribbean Shrublands|This ecoregion includes the Leeward Islands, specifically most of Grande Terre and Marie-Galante of Guadeloupe, Antigua, Anguilla, St. Martin, St. Barthelemy, Saba, and the eastern portions of the US and British Virgin Islands.|599
+NT26|Everglades Flooded Grasslands|The Everglades, located at the southern tip of peninsular Florida, is the most well-known wetland in the United States and one of the most distinct in the world.|581
+NT26|Enriquillo Wetlands|This ecoregion is primarily composed of lakes, lake islands, and surrounding habitats. |580
+NT26|Cuban Wetlands|Most of Cuba’s wetlands are located on floodplains and depressions influenced by the tides.|579
+NT26|Hispaniolan Pine Forests|The pine forests of this ecoregion are located on slopes with shallow soils and at higher elevations in the Hispaniolan mountain systems. |555
+NT26|Cuban Pine Forests|The Cuban Pine Forests are located on the eastern and western sides of the island in the province of Isla de la Juventud and Pinar del Río.|554
+NT26|Bahamian Pineyards|This ecoregion is found in varying proportions on the northern Bahamian islands of Grand Bahama, Abaco, Andros, New Providence in the Bahamas, and the Caicos Islands of North and Middle Caicos and Pine Cay.|552
+NT26|Puerto Rican Dry Forests|The Puerto Rican Dry Forests ecoregion is located along the south-central and southwestern coast of Puerto Rico and on the adjacent islands of Mona, Vieques, Culebra, Desecheo, and Caja de Muertos.|543
+NT26|Lesser Antillean Dry Forests|This ecoregion covers small portions of the Caribbean’s Leeward Islands.|537
+NT26|Jamaican Dry Forests|This ecoregion comprises approximately 15% of the land area on the island and covers most of the dry forests near the coast.|535
+NT26|Hispaniolan Dry Forests|The areas occupied by this ecoregion are located throughout the western two thirds of the island of Hispaniola, making up about 20% of the vegetation. |532
+NT26|Cuban Dry Forests|This ecoregion contains 141 bird species, 11 of them endemic to the island, and some of which are endangered.|530
+NT26|Windward Islands Moist Forests|The Windward Island Moist Forests ecoregion is found in much of the central portion of each of the Caribbean’s Windward Islands and is characterized by rugged mountains, lush tropical vegetation, and high annual rainfall.|517
+NT26|Leeward Islands Moist Forests|This ecoregion is found in various proportions on the Caribbean’s Leeward Islands characterized by rugged volcanic mountains covered in moist tropical forest.|475
+NT26|Jamaican Moist Forests|This ecoregion comprises approximately 85% of Jamaica’s land area covering most of the island except coastal areas and lowland dry forests.|472
+NT26|Hispaniolan Moist Forests|The endangered Hispaniolan solenodon is endemic to its namesake island with much of its suitable habitat falling in this ecoregion.|468
+NT26|Cuban Moist Forests|This ecoregion is distributed in multiple patches of different sizes along the ranges and highlands of the island of Cuba.|459
+PA30|Paropamisus Xeric Woodlands|This ecoregion is located mostly in Northern Afghanistan on the central mountains, where higher altitudes and more rainfall permit open xeric woodlands to thrive.|834
+PA30|Central Afghan Mountains Xeric Woodlands|This ecoregion forms a broad crescent shapes belt surrounding the eastern and southern sides of the Afghan central mountains. |816
+PA30|Baluchistan Xeric Woodlands|This ecoregion extends from the Las Bela Valley and high plateaus of Baluchistan Province in southwest Pakistan and southeastern Afghanistan north to the Trans-Indus Plains of the North-West Frontier Province.|814
+PA30|Badghyz and Karabil Semi-Desert|This ecoregion stretches through the hilly plateaus north of the Paropamiz mountain, part of the Hindu Kush range.|813
+PA30|Afghan Mountains Semi-Desert|This ecoregion is made up of three disjunct areas of small, dry valleys along the slopes of Hindu Kush mountain range in Afghanistan.|807
+PA30|Sulaiman Range Alpine Meadows|This disjunct ecoregion covers the alpine meadows of the high elevations, above 1,500 m of the Sulaiman Range.|766
+PA30|Ghorat-Hazarajat Alpine Meadow|This ecoregion follows the western extension of the subalpine thickets and Cushion Shrubland floristic unit and is made up of several distinct parts.|752
+PA30|East Afghan Montane Conifer Forests|This ecoregion spans from the Eastern Hindu Kush mountain range in Afghanistan to the Central North of Pakistan.|694
+PA29|Registan-North Pakistan Sandy Desert|This ecoregion spans southern Afghanistan, extreme eastern Iran, and part of Northwest Pakistan.|838
+PA29|Central Persian Desert Basins|This ecoregion covers Iran’s central plateau, reaching into a small part of Northwest Afghanistan.|820
+PA29|South Iran Nubo-Sindian Desert and Semi-Desert|This ecoregion stretches across the Southern swathe of Iran, reaching into small areas of Iraq and Pakistan. |841
+PA29|Kuh Rud and Eastern Iran Montane Woodlands|This ecoregion encompasses the highlands of central and Eastern Iran, reaching into a very small area of Pakistan.|757
+PA28|Elburz Range Forest Steppe|The Elburz Range Forest Steppe is in Northern Iran, spanning the Southern and Eastern slopes of the Elburz Mountains. |695
+PA28|Caspian Hyrcanian Mixed Forests|The vast majority of the ecoregion lies in Northwest Iran, while part of it covers the Lenkoran lowlands and Talysh Mountains of Southeast Azerbaijan.|649
+PA27|Eastern Anatolian Montane Steppe|This ecoregion traverses East Turkey, Northwest Iran, the Nakhchyvan Autonomous Republic in Azerbaijan, Armenia, and South Georgia. |727
+PA27|Zagros Mountains Forest Steppe|This ecoregion spans the Zagros mountain arch.|688
+PA31|Tian Shan Montane Conifer Forests|Surrounded by the desert basins of northern China, this ecoregion is an isolated, east-west trending mountain range |709
+PA31|Tian Shan Foothill Arid Steppe|The Tian Shan (Celestial Mountains) rises from the deserts and steppe basins of Inner Asia to form the largest temperate-arid mountain system on Earth. |740
+PA31|Gissaro-Alai Open Woodlands|This ecoregion intersects five countries: Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan.|730
+PA31|Alai-Western Tian Shan Steppe|This ecoregion spreads over five countries along lowland and loess plains.|721
+PA31|Tian Shan Montane Steppe and Meadows|The Tian Shan are separated from the Kunlun Mountains and the Tibetan Plateau by the broad, hyper-arid Tarim Basin and Taklimakan Desert. |767
+PA33|Kopet Dag Semi-Desert|This ecoregion lies largely within Turkmenistan, reaching into a small area of Northeastern Iran. Fringing the magnificent Kopet Dag Mountains, it spans the transition zone between foothills and vast lowland desert.|829
+PA33|Caspian Lowland Desert|This ecoregion lies on the northern and eastern shores of the Caspian Sea following the coastlines of Russia, Kazakhstan, Turkmenistan, and Iran. |815
+PA33|Azerbaijan Shrub Desert and Steppe|Seventy percent of this ecoregion lies within Azerbaijan, with the rest reaching into Southeast Georgia and Northwest Iran. |812
+PA33|Kopet Dag Woodlands and Forest Steppe|This ecoregion encompasses the Kopet Dag—a chain of mountains stretching along the border of Iran and Turkmenistan.|756
+PA32|Kazakh Semi-Desert|This ecoregion stretches from the Ural River to the west, encompassing the North Aral Sea in the southwest, to the Kazakh Uplands, a vast low-relief plain, in the central east, which has low mountain oases.|828
+PA32|Central Asian Southern Desert|This ecoregion covers two massive deserts, the Kyzylkum in Uzbekistan and Kazakhstan, and the Karakum in Turkmenistan.|819
+PA32|Central Asian Riparian Woodlands|This ecoregion covers four disjunct portions in Turkmenistan, Uzbekistan, and Kazakhstan.|818
+PA32|Central Asian Northern Desert|This ecoregion covers disjunct areas mainly in Kazakhstan and Uzbekistan, with small parts in Kyrgyzstan and Turkmenistan. |817
+PA35|Western Siberian Hemiboreal Forests|This ecoregion forms a latitudinal belt within the southern taiga zone of West Siberia.|687
+PA34|Kazakh Upland Steppe|This ecoregion is composed of three separate areas: Kokchetau Uplands in northern Kazakhstan; Aktau, Ortau, and Karkaraly mountain area in central-eastern Kazakhstan; and Chingiztau mountain area to the east.|733
+PA34|Kazakh Steppe|This large ecoregion is bounded in the west by the Ural River, in the north and east by more humid forest steppe, and in the south by the Kazakh Semi-Desert ecoregion. |732
+PA34|Kazakh Forest Steppe|This ecoregion forms a long, 150–250 km-wide band, stretching from the Ural Mountains to foothills of the Altai and Sayan Mountains. |731
+PA37|Emin Valley Steppe|This ecoregion straddles the Kazakhstan-China border along the north slope of the Tian Shan mountain range.|728
+PA37|Altai Alpine Meadow and Tundra|This ecoregion lies above conifer forest treeline, occupying the headwaters of two of Siberia’s greatest rivers, the Ob and the Irtysh. |749
+PA37|Altai Steppe and Semi-Desert|This ecoregion forms a transition between the forests of the Altai Mountain ecoregions to the north and east and the Kazakh desert plain to the west. |724
+PA37|Altai Montane Forest and Forest Steppe|This ecoregion traces the Altai Mountains southeastward, dividing arid basins of Inner Asia from Siberian river systems that drain to the Arctic. |690
+PA36|Sayan Alpine Meadows and Tundra|This ecoregion covers areas above the tree line between the Altai Mountains and Lake Baikal in Russia.|764
+PA36|Sayan Intermontane Steppe|This ecoregion is found between ridges of the Tannu-Ola mountains to the south and the Western Sayan mountains to the north, within the Central Tuva Depression. |736
+PA36|Sayan Montane Conifer Forests|This ecoregion is situated on the boundary between Siberian taiga forest and Central Asian desert, comprising the mid-elevations of the highest mountains in Siberia.|707
+PA36|South Siberian Forest Steppe|This ecoregion is made up of four patches of a mix of grasslands and sparse forest in a thin band of lowland terrain. |738
+PA39|Taklimakan Desert|Encircled by tall mountains near the geographic center of Eurasia, the Taklamakan Desert is deprived of moisture from all sources—monsoonal, westerly, and Arctic.|843
+PA39|Tarim Basin Deciduous Forests and Steppe|Situated across Xinjiang, China, the Tarim Basin is further from the ocean than any other place in the world, with high mountains blocking both the Asian monsoon and westerly winter storms. |684
+PA38|Great Lakes Basin Desert Steppe|This huge depression is bounded by the Mongolian Altai mountains to the west, Gobi Altai mountains to the south, Tannu Ola mountains to the north, and the Sangilen and Khangai ranges to the west.|826
+PA38|Junggar Basin Semi-Desert|The Junggar Basin is one of the great intermontane basins of Central Asia. Situated between the Tian Shan and Altai mountain ranges, it supports a vast expanse of semi-desert habitat.|827
+PA38|Gobi Lakes Valley Desert Steppe|This ecoregion sits between the Khangai Mountains and the eastern end of the Mongolian Altai mountain range, covering the eastern end of the Gobi Altai mountains, including their highest peak, Ikh Bogd, 3,957m tall. |825
+PA38|Eastern Gobi Desert Steppe|This ecoregion covers an area of 282,369 km2 and extends from the Inner Mongolian plateau in northern China and Mongolia.|824
+PA38|Alashan Plateau Semi-Desert|This ecoregion encompasses the Helan Mountains to the East, Quilian Mountains the West, and the Tibetan Plateau to the south, both in China.|808
+PA41|Karakoram-West Tibetan Plateau Alpine Steppe|This ecoregion lies within the catchment of the upper Indus River where it is shadowed from rain by the Karakoram and the northwestern Himalayan mountain ranges.|754
+PA41|Yarlung Zanbo Arid Steppe|The Yarlung Zanbo valley is situated at a lower elevation than other parts of the Tibetan Plateau and is further warmed during summer by föhn winds that descend the north slope of the Himalaya.|770
+PA41|Western Himalayan Alpine Shrub and Meadows|This ecoregion represents the alpine meadows and shrublands between 3,000 and 5,000 m in the western Himalaya, from the Kali Gandaki River gorge in Nepal to the Indian State of Uttar Pradesh. |769
+PA41|Pamir Alpine Desert and Tundra|This ecoregion includes broad valleys and steeply rolling hills with an ecological and physiographic similarity to the Tibetan Plateau, that are instead situated at a mean elevation of about 4,200 m, substantially lower (and warmer) than the high basins of northwestern Tibet.|762
+PA41|Northwestern Himalayan Alpine Shrub and Meadows|This ecoregion represents a narrow band of alpine scrub and meadows between 3,300 and 3,600 m, especially in the Vale of Kashmir.|760
+PA41|Hindu Kush Alpine Meadow|This ecoregion forms part of the western Hindu Kush Himalayas in Afghanistan and is bordered by Pakistan in the east and Tajikistan in the north.|753
+PA41|Eastern Himalayan Alpine Shrub and Meadows|This ecoregion is atop the roof of the world, surrounding the highest mountain peaks on Earth; Everest—locally known as Sagarmatha—Makalu, Dhaulagiri, and Jomalhari. |751
+PA41|Northeastern Himalayan Subalpine Conifer Forests|This ecoregion occupy slopes of the Zangbo Gorge, the deepest river valley on Earth.⁠|702
+PA40|Southeast Tibet Shrublands and Meadows|Abutting the highest mountain range in the world, the southeastern Tibetan Plateau supports an exceptionally moist alpine habitats.|765
+PA40|Qilian Mountains Subalpine Meadows|The Qilian Mountains crest along the northeastern rim of the Tibet Plateau at elevations over 5,500 m.|763
+PA40|Qilian Mountains Conifer Forests|The Qilian Mountains rise to 5,500 m elevation along the northeastern margin of the Tibetan Plateau, providing snowmelt to desert oases at the foot of the range. |705
+PA40|Qaidam Basin Semi-Desert|This ecoregion occupies a tectonic depression, or graben, that slumps between the Tibet Plateau, the Altun mountain range, and the western part of the rapidly uplifting Qilian mountain range.|835
+PA40|Tibetan Plateau Alpine Shrublands and Meadows|Alpine shrublands and meadows extend 1,500 km across the central part of the Tibetan Plateau from the Tsangpo river valley near Lhasa to the Qilian Mountains in the far northeast.|768
+PA40|North Tibetan Plateau-Kunlun Mountains Alpine Desert|The vast Tibetan Plateau supports a range of alpine habitats, of which the most extreme environments are located in the northwest where precipitation is scant, temperatures are frigid, and elevations exceed 4,800 m for hundreds of kilometers in all directions.|759
+PA40|Central Tibetan Plateau Alpine Steppe|Between the monsoon-affected southeast and the frigid, desiccated northwest lies this ecoregion, hundreds of thousands of square kilometers of steppe meadow, where individual small plants are typically separated by bare earth. |750
+PA44|Khangai Mountains Alpine Meadow|This ecoregion encompasses a mosaic of habitats at the highest altitudes of Mongolia’s central Khangai mountain range.|755
+PA44|Nenjiang River Grassland|The Nenjiang River originates in the Khingan mountain range, near the eastern end of the Mongolian Plateau, then flows to the lowlands of central Manchuria in northeastern China. |743
+PA44|Selenge-Orkhon Forest Steppe|This ecoregion covers the basins of the Tesiin Gol River, which runs to the west; the Selenge River, which run north east to Lake Baikal; and its major tributary, the Orkhon River. |737
+PA44|Mongolian-Manchurian Grassland|This ecoregion is one of the largest, most intact grassland ecosystems on Earth, lying between Siberian conifer forests, Central Asian rocky deserts, and the Manchurian hills of Northeastern China.|734
+PA44|Khangai Mountains Conifer Forests|This ecoregion is restricted to a narrow northern strip of the Khangai Mountain range of Mongolia, where dense conifer forests grow on the northern aspect of mountain slopes. |700 
+PA44|Daurian Forest Steppe|Mongolia’s Daurian Forest Steppe ecoregion covers the northern part of the UNESCO-designated ‘Landscapes of Dauria’, a majestic reach of forest and steppe-grassland that extends across northeastern Mongolia into southern Siberia.|726
+PA42|Ordos Plateau Steppe|The Ordos Plateau lies within the Great Bend of the Huang He (Yellow River) in China.|761
+PA42|Helanshan Montane Conifer Forests|The Helanshan mountain range projects northward for about 180 km from the Tibet-Qinghai Plateau in China.|696
+PA48|Central Korean Deciduous Forests|This ecoregion occupies most of the Korean Peninsula, apart from the southern coastal margin and the hilly north.|655
+PA48|Southern Korea Evergreen Forests|The climate and environmental conditions of the southern margin of the Korean Peninsula and Jeju Island support warm-temperate evergreen broadleaf forest.⁠|681
+PA46|Suiphun-Khanka Meadows and Forest Meadows|Lake Khanka sits astride the China-Russia border in the center of this ecoregion, which is composed of lowlands surrounding 25 rivers.|746
+PA46|Amur Meadow Steppe|The expansive rivers, Amur and Songhua, wind through the vast, open plains of this ecoregion.|741
+PA46|Ussuri Broadleaf and Mixed Forests|This ecoregion is found just north of the Amur River, which swings northwards through the ecoregion, east of the Ussuri River on the gentle western slopes of the Sikhote-Alin Mountains, and on the steep eastern slopes of the Sikhote-Alin to the coast of the Sea of Japan. |685
+PA46|Changbai Mountains Mixed Forests|This ecoregion spans across northern North Korea and north-eastern China.|656
+PA46|Northeast China Plain Deciduous Forests|The Northeast China Plain deciduous forests ecoregion follows the Liao river upstream from the Bay of Bohai, crosses a low watershed divide into the Songhua river, and extends to the confluence of the Songhua with the Heilongjiang (Amur) River on the Russian frontier.|673
+PA46|Manchurian Mixed Forests|The Manchurian Mixed Forests ecoregion is affected by a cold continental airflow from interior Asia that brings dry, frigid conditions during winter.|669
+PA45|Da Hinggan-Dzhagdy Mountains Conifer Forests|Western interior reaches of the Da Hinggan (Khingan) mountain range of Chinese Inner Mongolia extend north to the Dzhagdy Mountains of Russia, an eastern extension of the great Altai mountain system.|693
+PA47|Honshu Alpine Conifer Forests|This ecoregion covers several areas of alpine vegetation amidst montane deciduous forests areas in Northern Honshu (Japan's main island) and Southern Hokkaido islands.|699
+PA47|Hokkaido Montane Conifer Forests|The Hokkaido Montane Conifer Forests ecoregion is located on Japan's northernmost volcanic Island of Hokkaido, the country's second-largest island.|698
+PA47|Taiheiyo Montane Deciduous Forests|This mountainous ecoregion extends from Kyushu island in the south of Japan to the northeastern coast of Honshu, with a small section on Shikoku island. |683
+PA47|Taiheiyo Evergreen Forests|This ecoregion encompasses areas across several of Japan’s major islands, stretching from Kyushu and Shikoku in the south to the western coast of Honshu further north.|682
+PA47|Nihonkai Montane Deciduous Forests|This mountainous ecoregion lies predominantly within Japan’s largest island—Honshu—with a small section in the southerly tip of Hokkaido beneath the Kuromatsunai line.|671 
+PA47|Nihonkai Evergreen Forests|This ecoregion encompasses much of the west coast of Honshu—Japan’s largest island—from the city of Hamada in the south to Yurihonjo in the north.|670
+PA47|Hokkaido Deciduous Forests|This ecoregion covers 36,301 km2 of lowland temperate deciduous forests mostly on Hokkaido, Japan's northernmost island.|666
+PA53|Qionglai-Minshan Conifer Forests|As tectonic forces push Eastern Tibet against the rigid continental crust of the Sichuan Basin, steep mountain escarpments have cropped up to form the Qionglai-Minshan mountain system.|706
+PA53|Nujiang Lancang Gorge Subalpine Conifer and Mixed Forests|Several parallel river gorges, separated by steep mountain ridges, divide the Yunnan Plateau of China from the eastern Himalaya.|704
+PA53|Hengduan Mountains Subalpine Conifer Forests|The Hengduan mountain system, the most biologically diverse temperate region on Earth, forms a landscape of deep river gorges and tall dividing ranges at the southeastern margin of the Tibet Plateau.|697
+PA52|Yunnan Plateau Subtropical Evergreen Forests|The Yunnan Plateau, literally “South of the Clouds,” is a transition from the monsoon tropics of Indochina to the eastern Himalayan region. |643
+PA52|Guizhou Plateau Broadleaf and Mixed Forests|The Guizhou Plateau lies at an elevation of 1,000 to 1,400 m and comprises a rugged landscape of block-shaped limestone hills separated by steep-walled basins; it is part of a geological realm called the South China Karst. |642
+PA51|Sichuan Basin Evergreen Broadleaf Forests|The Sichuan Basin is a fertile expanse of low hills and plains almost entirely encircled by mountains: the Tibet Plateau to the west, karst limestone uplands to the south, row upon row of rugged hills to the north and east, cut through by the Chang Jiang.|680
+PA51|Daba Mountains Evergreen Forests|The Daba Mountains have the most extensive primary forests remaining in central China.|659
+PA51|Qin Ling Mountains Deciduous Forests|The Qinling Mountains first formed more than 200 million years ago as a suture zone where the tectonic plate of Southern China, moving north, accreted to the Asian continent.|677
+PA50|Yellow Sea Saline Meadow|One reach of coastal saline meadow, the Yancheng coastline, extends northward from the mouth of the Yangtze River towards the Shandong Peninsula, holding the Yellow Sea Saline Meadow ecoregion.|748
+PA50|Changjiang Plain Evergreen Forests|This ecoregion is delineated to the south and west by the mountainous uplands of southern China; to the north, it is separated from the plains of the Huang He by a low watershed divide.|657
+PA49|Bohai Sea Saline Meadow|This ecoregion occupies a crescent of the Chinese coast that faces the northern part of the Yellow Sea, north of the Shandong Peninsula.|742
+PA49|Huang He Plain Mixed Forests|Spreading across northeastern China, the Huang He Plain Mixed Forests ecoregion widens eastward as the floodplains that define it become broader towards the coast of the Yellow Sea.|667
+PA49|Central China Loess Plateau Mixed Forests|The Central China Loess Plateau, northwest of the Yellow River Basin, forms a transition zone between the maritime-influenced ecoregions of eastern China and the steppes and deserts of Mongolia.|653 
+IM16|Sunda Shelf Mangroves|This ecoregion lines the coasts of the islands of Borneo and Sumatra, astride the geologically active fault known as the ‘Ring of Fire’ that arcs around the Pacific Ocean.|322
+IM16|Kinabalu Montane Alpine Meadows|Straddling the 4,095 m peak of Mount Kinabalu that towers above the vast tropical rainforests of Borneo, this ecoregion represents the alpine and subalpine meadows and shrublands of the Kinabalu and Crocker ranges.|313
+IM16|Sundaland Heath Forests|This ecoregion is made up of the forests growing on patches of white-sand soils on sandstone plateaus and ridges, and beaches raised from the seabed which have well-drained acidic soils that leach nutrients.|281
+IM16|Southwest Borneo Freshwater Swamp Forests|This ecoregion represents the freshwater swamp forests that line the southern and western coast of Borneo in Indonesian Kalimantan.|273
+IM16|Borneo Peat Swamp Forests|This ecoregion represents the peat swamps along the coasts of Borneo and around the clusters of inland lakes associated with the Mahakam and Kapuas rivers.|221
+IM16|Borneo Montane Rainforests|This ecoregion representing the montane forests along the central spine of Borneo has been described as a montane archipelago in an ocean of lowland dipterocarp forests.|220
+IM16|Borneo Lowland Rainforests|The biodiversity of Borneo’s rainforests is among the richest in the world, rivalling forests of New Guinea and the Amazon.|219
+IM18|Sumatran Tropical Pine Forests|This ecoregion consists of five discrete patches of tropical pine forests scattered across the mountain range and embedded within the montane broadleaf forests of Sumatra. |305
+IM18|Sumatran Peat Swamp Forests|The Sumatran Peat Swamp Forests lie along the southeastern coast of Sumatra.|280
+IM18|Sumatran Montane Rainforests|This ecoregion represents the forests above 1,000 m in elevation along the Barisan Mountain Range that runs the length of Sumatra.|279
+IM18|Sumatran Lowland Rainforests|This ecoregion covers the lowland rainforests of Sumatra.|278
+IM18|Sumatran Freshwater Swamp Forests|This ecoregion represents the disjunct patches of freshwater swamp forests adjacent to the peat swamp forests in eastern Sumatra. |277
+IM18|Peninsular Malaysian Rainforests|This ecoregion represents the lowland moist forests of peninsular Malaysia, with small sections extending into southern Thailand. |265
+IM18|Peninsular Malaysian Peat Swamp Forests|This ecoregion is located along the coastal regions of Peninsular Malaysia.|264
+IM18|Peninsular Malaysian Montane Rainforests|This ecoregion represents the montane forests in central peninsular Malaysia, barely extending to the southernmost areas of Thailand.|263
+IM18|Mentawai Islands Rainforests|This ecoregion represents the islands 80 to 120 km off the western coast of Sumatra.|245
+IM18|Sunda Shelf Mangroves|This ecoregion lines the coasts of the islands of Borneo and Sumatra, astride the geologically active fault known as the ‘Ring of Fire’ that arcs around the Pacific Ocean.|322
+IM17|Western Java Rainforests|This ecoregion represents the lowland rainforests of western and central Java, an Indonesian island along the famous Ring of Fire that defines the seismically active border of the northward-drifting Pacific Plate. |289
+IM17|Western Java Montane Rainforests|This ecoregion represents the montane forests of West and Central Java. |288
+IM17|Eastern Java-Bali Rainforests|This ecoregion represents the lowland moist forests of the eastern half of the island of Java and Bali, and the smaller islands off the northern coasts of both.|230
+IM17|Eastern Java–Bali Montane Rainforests|This ecoregion represents forests along the central mountains of eastern Java and Bali, comprised of a row of about twenty active and dormant volcanos.|229
+IM17|Christmas and Cocos Islands Tropical Forests|Christmas Island and the Cocos Islands are two peaks of ancient submarine volcanos that rise over 5,000 m from the Indian Ocean floor, now peeking out the ocean surface.|227
+IM8|Godavari-Krishna Mangroves|This ecoregion extends as a narrow band along the middle-region coast of the Indian subcontinent. It forms larger patches in the estuaries of the Godavari and Krishna rivers.|316
+IM8|Deccan Thorn Scrub Forests|This ecoregion represents the low, sparse thorn scrub vegetation in the arid parts of the Deccan Plateau.|315
+IM8|Sri Lanka Dry-Zone Dry Evergreen Forests|This ecoregion represents the tropical dry forests throughout most of Sri Lanka.|301
+IM8|South Deccan Plateau Dry Deciduous Forests|The ecoregion represents the expanse of tropical dry forests in the southern parts of the Deccan Plateau, in the rain shadow cast by the Western Ghats Mountains.|298
+IM8|East Deccan Dry-Evergreen Forests|This ecoregion is relatively small, and represents the narrow strip of dry evergreen forests along the coast of southeastern India.|293
+IM8|Central Deccan Plateau Dry Deciduous Forests|The ecoregion sits in the middle of the Deccan Plateau that makes up most of India.|290
+IM7|Godavari-Krishna Mangroves|This ecoregion extends as a narrow band along the middle-region coast of the Indian subcontinent. It forms larger patches in the estuaries of the Godavari and Krishna rivers.|316
+IM7|North Deccan Dry Deciduous Forests|This ecoregion extends across three Indian states of Bihar, Orissa, and Madhya Pradesh, and represents the northern extent of dry deciduous forests in India.|297
+IM7|Orissa Semi-Evergreen Forests|The flora and fauna of this ecoregion has an ancient geological lineage with Gondwanaland origins, but now represents the forests along the low hills in the northeastern Indian State of Orissa.|261
+IM7|East Deccan Moist Deciduous Forests|This ecoregion is a tropical moist deciduous forest ecoregion of east-central India.|228
+IM6|Sundarbans Mangroves|This ecoregion lies in a vast delta, an area over 10,000 km2 formed by the confluence of South Asia’s largest rivers, the Ganges, Hooghly, Padma, Brahmaputra and Meghna.|323
+IM6|Upper Gangetic Plains Moist Deciduous Forests|This ecoregion lies along one of Asia’s largest and most sacred rivers, the Ganges, or Ganga.|287
+IM6|Sundarbans Freshwater Swamp Forests|This ecoregion represents the swamp forests surrounding the Sundarbans Mangroves, in the zone where the freshwater from the rivers push back the saline waters of the intruding ocean.|282
+IM6|Meghalaya Subtropical Forests|This ecoregion represents the subtropical forests of the Khasi and Garo hills of the Indian State, Meghalaya, which literally means ‘abode of clouds’. |244
+IM6|Lower Gangetic Plains Moist Deciduous Forests|This ecoregion lies along the confluence of two of Asia’s largest rivers, the Ganges and Brahmaputra Rivers.|238
+IM6|Brahmaputra Valley Semi-Evergreen Forests|This ecoregion represents the swath of semi-evergreen forests along the upper reaches of the sacred Brahmaputra River.|222
+IM6|Myanmar Coast Mangroves|This ecoregion extends along the eastern rim of the Bay of Bengal through the coastal areas of India, Myanmar, Thailand, and Malaysia.|321
+IM5|Terai-Duar Savanna and Grasslands|This ecoregion stretches from northwest India across and into the inner river valleys of southern Nepal and to southwest Bhutan. |311
+IM5|Western Himalayan Subalpine Conifer Forests|This ecoregion extends west from the Kali Gandaki River in central Nepal through northwestern India into eastern Pakistan.|310
+IM5|Eastern Himalayan Subalpine Conifer Forests|This ecoregion represents the belt of conifer forest from the Kali Gandaki River in Nepal through Bhutan and into the Arunachal Pradesh State in India.|309
+IM5|Western Himalayan Broadleaf Forests|This ecoregion is a narrow band between 1,500 and 2,600 m in width, starting from the deep creeks of the Kali Gandaki River gorge in Central Nepal through northwestern India into Pakistan westward. |308
+IM5|Eastern Himalayan Broadleaf Forests|This ecoregion represents the narrow band of temperate broadleaf forest, between 2,000 and 3,000 m in width in the eastern Himalaya.|306
+IM5|Himalayan Subtropical Pine Forests|This ecoregion stretches for over 3,000 km along the lower elevations of the Himalayan mountain range, from Pakistan to Bhutan, cutting through several Himalayan states of India and Nepal.|302
+IM5|Himalayan Subtropical Broadleaf Forests|This ecoregion extends from the tiny Himalayan Kingdom of Bhutan in the east to Nepal in the west, as it traverses the Siwalik Hills.|233
+IM3|Narmada Valley Dry Deciduous Forests|This ecoregion represents the dry forests along the Narmada River Valley, a rift valley situated in a fault zone marking the boundary of northern India and the Indian Peninsula. |296
+IM3|Khathiar-Gir Dry Deciduous Forests|This ecoregion covers the dry deciduous forests that are surrounded by the extensive thorn scrub forests that cover most of India’s northwestern regions.|295
+IM3|Chhota-Nagpur Dry Deciduous Forests|This ecoregion still harbors large populations of Asia’s largest predator and herbivore, the tiger and Asian elephant, both of which are still able to roam the landscape with relative freedom, a rarity in this bioregion. |292
+IM3|Indus River Delta-Arabian Sea Mangroves|This ecoregion is in several disjunct patches that line the shorelines of the Indus River Delta and the Gulfs of Kutch and Khambhat.|320
+IM2|South Western Ghats Montane Rainforests|This ecoregion represents the rainforests above 1,000 m elevation of the southern Western Ghats mountain range along the west coast of the Indian subcontinent.|271
+IM2|South Western Ghats Moist Deciduous Forests|This ecoregion surrounds the montane rain forests along the southern extent of the Western Ghats Mountain Range, and represents the drier, deciduous forest ecosystems.|270
+IM2|North Western Ghats Montane Rainforests|This ecoregion represents the upper montane forests along the Western Ghats mountain range, from north of Mumbai to the Wyanad evergreen forests in the south.|254
+IM2|North Western Ghats Moist Deciduous Forests|This ecoregion extends through the Indian states of Maharashtra and Karnataka, northwards from where the South Western Ghats Moist Deciduous Forests ends. |253
+IM2|Malabar Coast Moist Forests|This ecoregion extends from the coast to the 250 m elevation contour of the steep Western Ghats Mountains a few kilometers inland. |242
+IM2|Sri Lanka Montane Rainforests|This ecoregion represents the island’s montane and sub-montane wet forests above 1,000 m. |275
+IM2|Sri Lanka Lowland Rainforests|These rainforests have been separated from the nearest rainforests in the Western Ghats mountain range along the west coast of India since the late Miocene, over 7 million years ago, allowing species to evolve in isolation.|274
+IM4|Indus River Delta-Arabian Sea Mangroves|This ecoregion is in several disjunct patches that line the shorelines of the Indus River Delta and the Gulfs of Kutch and Khambhat.|320
+IM4|Thar Desert|This ecoregion lies to the west of the Aravalli Mountain Range in the northwestern Indian States of Gujarat, Rajasthan, extending across the border to the Punjab and Sind regions of Pakistan. |318
+IM4|Indus Valley Desert|This hot, arid ecoregion sits in the middle of Pakistan’s Indus Valley, flanked by the Glaiman Mountain Range to the west, and the Chenab River to the east. |317
+IM4|Aravalli West Thorn Scrub Forests|This ecoregion represents the thorn scrub forests in the northwestern parts of the Indian subcontinent, along the Aravalli Mountains, transcending the international border between India and Pakistan.|314
+IM4|Rann of Kutch Seasonal Salt Marsh|This ecoregion represents the saline wetlands and mudflats at the mouth of the Luni River that flows down from the Aravalli Hills in northwestern India. |312
+IM1|Maldives-Lakshadweep-Chagos Archipelago Tropical Moist Forests|This ecoregion represents three island groups along a submarine mountain range known as the Chagos-Laccadive Plateau in the western Indian Ocean. |243
+IM15|Luzon Tropical Pine Forests|This ecoregion covers the tropical pine forest on the Central Cordillera Mountains on Luzon Island.|303
+IM15|Sulu Archipelago Rainforests|This ecoregion represents a chain of islands between the large islands of Borneo and Mindanao, Philippines.|276
+IM15|Palawan Rainforests|This ecoregion covers Palawan and its peripheral islands. |262
+IM15|Mindoro Rainforests|This ecoregion represents Mindoro Island and the smaller satellite islands with a wet tropical climate.|248
+IM15|Mindanao-Eastern Visayas Rainforests|This ecoregion covers the lowland forests below 1,000 m in elevation, on the Philippine islands of Mindanao, Samar, Leyte, Bohol, and several smaller satellite islands.|247
+IM15|Mindanao Montane Rainforests|This ecoregion covers the montane rainforests, above 1,000 m elevation, on Mindanao Island.|246
+IM15|Luzon Rainforests|The Luzon Rainforests ecoregion covers the rainforests below 1,000 m on Luzon Island.|241
+IM15|Luzon Montane Rainforests|This ecoregion represents the forests above 1,000 m in elevation along the Sierra Madre Mountain range, the longest in the Philippines, and the Zambales Mountains in the west. |240
+IM15|Greater Negros-Panay Rainforests|This ecoregion consists of several islands; namely the larger Negros, Panay, Cebu, and several smaller islands. |231
+IM13|Taiwan Subtropical Evergreen Forests|This ecoregion represents most of the forests of the island of Taiwan, except for the southernmost section that lies to the south of the Tropic of Cancer.|283
+IM13|South Taiwan Monsoon Rainforests|This ecoregion covers the low elevation forests in the southern-most part of the island.|269
+IM13|South China-Vietnam Subtropical Evergreen Forests|This ecoregion extends from northern Vietnam into southeastern China, and includes Hainan Island. |268
+IM13|Jian Nan Subtropical Evergreen Forests|This ecoregion covers the Nan Ling mountain range, a wide divide that separates the southern Zhujiang River basin from the northern Yangtze Valley. |236
+IM13|Hainan Island Monsoon Rainforests|This ecoregion represents the montane forests in the central region of the island, which has a more seasonal climate.|232
+IM12|Southern Vietnam Lowland Dry Forests|This ecoregion covers the dry forests along the semi-arid coastal areas of southern Vietnam, where the Annamite Mountains restrict the flow of humid air during the monsoon season, and casts a rain shadow. |300
+IM12|Southeastern Indochina Dry Evergreen Forests|This ecoregion sprawls across Cambodia and southern Vietnam, with parts extending into Thailand and Laos.|299
+IM12|Central Indochina Dry Forests|This ecoregion extends across Thailand, from the dry lower slopes in the north and the foothills of the Tenasserim Range to the uplands around the Chao Phraya River Basin.|291
+IM12|Tonle Sap-Mekong Peat Swamp Forests|This ecoregion represents the forests that are permanently inundated with shallow fresh- water around the Tonle Sap Lake and River, Southeast Asia’s largest natural lake and its river, located in central Cambodia.|286
+IM12|Tonle Sap Freshwater Swamp Forests|This ecoregion extends south from Tonle Sap Lake in central Cambodia, along the Tonle Sap River, and then along the lower reaches of the Mekong River into southern Vietnam.|285
+IM12|Southern Annamites Montane Rainforests|This ecoregion represents the remote montane forests from Kontuey Neak, or “the Dragon’s Tail” in the northwest corner of Cambodia.|272
+IM12|Northern Vietnam Lowland Rainforests|This ecoregion extends south from the Red River, along the coast and lowlands, to Tam Ky in Central Vietnam. |260
+IM12|Northern Thailand-Laos Moist Deciduous Forests|This ecoregion includes the limestone karst mountains in northern Thailand and Laos.|258
+IM12|Northern Khorat Plateau Moist Deciduous Forests|This ecoregion is relatively small, and represents the moist deciduous forests in the northern part of the low, saucer-shaped plateau in western Thailand.|257
+IM12|Northern Annamites Rainforests|This ecoregion straddles the Annamite, or Troung Son, mountain range and the international boundary between Laos and Vietnam. |255
+IM12|Luang Prabang Montane Rainforests|This ecoregion represents the forests above 800 m in northern and central Laos and in small areas of northeastern Thailand, barely touching northern Vietnam.|239
+IM12|Chao Phraya Lowland Moist Deciduous Forests|This ecoregion occurs as two disjunct areas on either side of the Chao Phraya river basin’s lower reaches.|225
+IM12|Chao Phraya Freshwater Swamp Forests|The sprawling capital of Thailand, Bangkok, which supports over 8 million people, sits in the lower reaches of this ecoregion. |224
+IM12|Cardamom Mountains Rainforests|This ecoregion represents the wet evergreen forests of the Cardamom and Elephant mountains in southwest Cambodia and southeast Thailand.|223
+IM12|South China Sea Islands|The South China Sea Islands ecoregion consists of over 250 islands, atolls, and shoals scattered throughout the South China Sea, and grouped into three archipelagos.|267
+IM12|Indochina Mangroves|The mangroves that comprise this ecoregion line the coastal areas of the Gulf of Thailand, where regular flooding by tidal or brackish water and saline gleysols provide conditions for mangroves.|319
+IM12|Red River Freshwater Swamp Forests|This ecoregion comprises the freshwater swamp forests of the Red River valley in northern Vietnam, immediately inland from the mangroves, and upriver along the wide shallow lower reaches of this 1,149 km long river. |266
+IM11|Irrawaddy Dry Forests|This ecoregion is comprised of several patches of dry forests where the environment is harsh and dry, with only about 650 mm of annual rainfall.|294
+IM11|Northern Indochina Subtropical Forests|This ecoregion straddles the intersection where the faunas of the northern Palearctic and the southern Indo-Malayan realms mix.|256
+IM11|Kayah-Karen Montane Rainforests|This ecoregion lies along the northern part of the Tenasserim Mountain Range, which forms the border between Thailand and Myanmar. |237
+IM11|Irrawaddy Moist Deciduous Forests|This ecoregion covers the moist deciduous forests in the vast Irrawaddy River basin, including the catchments of the Bago Yoma mountains and the foothills of Rakhine Yoma. |235
+IM10|Northeast India-Myanmar Pine Forests|This ecoregion represents the pine forests distributed in three isolated patches in the Naga Hills, which form the international border between India and Myanmar. |304
+IM10|Northern Triangle Subtropical Forests|The Northern Triangle Subtropical Forests ecoregion mountains were formed from the upheaval and uplift that followed the collision between the Deccan Plateau and the Laurasian mainland, which also created the Himalayas.|259
+IM10|Mizoram-Manipur-Kachin Rainforests|This ecoregion is vast, covering the remote sub-montane rainforests from the southern Arakan mountains and Chin Hills in western Myanmar into the northern mountains of Kachin State in Myanmar.|249
+IM10|Chin Hills-Arakan Yoma Montane Forests|This ecoregion represents the montane moist forests of the Chin Hills and Arakan (now known as Rakhine) Yoma along the west coast of Myanmar. |226
+IM10|Northern Triangle Temperate Forests|This ecoregion represents a relatively narrow band of temperate forests in northern Myanmar’s mountains.|307
+IM9|Tenasserim-South Thailand Semi-Evergreen Rainforests|This ecoregion is a transition from the continental dry evergreen forests in central Thailand to the semi-evergreen rainforests along the neck of the Malayan peninsula.|284
+IM9|Nicobar Islands Rainforests|This ecoregion represents the cluster of Nicobar Islands in the archipelago along the eastern Indian Ocean undersea mountain range.|252
+IM9|Myanmar Coastal Rainforests|This ecoregion represents the lowland evergreen and semi-evergreen rainforests along the western side of the Arakan Yoma and Tenasserim mountain ranges of Myanmar’s west coast. |250
+IM9|Irrawaddy Freshwater Swamp Forests|This ecoregion represents the forests immediately behind the mangroves, in the zone where the fresh water from the Irrawaddy River pushes back the salt water.|234
+IM9|Andaman Islands Rainforests|The Andaman Islands, covered by this ecoregion, is part of an archipelago that continues southward to the Nicobar Islands on the eastern side of the Bay of Bengal. |218
+IM9|Myanmar Coast Mangroves|This ecoregion extends along the eastern rim of the Bay of Bengal through the coastal areas of India, Myanmar, Thailand, and Malaysia.|321
+IM9|Indochina Mangroves|The mangroves that comprise this ecoregion line the coastal areas of the Gulf of Thailand, where regular flooding by tidal or brackish water and saline gleysols provide conditions for mangroves.|319
+IM14|Nansei Islands Subtropical Evergreen Forests|This ecoregion covers the 1,050 km-long chain of over 100 small islands that stretches from Kyushu Island of Japan to Taiwan.|251
+NA21|Central US Forest-Grasslands Transition|This ecoregion occupies a large area between the deciduous forests of the eastern United States and the tallgrass prairies of the eastern Great Plains.|387
+NA21|Flint Hills Tallgrass Prairie|This ecoregion is distinguished from the Central Tallgrass Prairie to the east and northeast by its thin, cherty, limestone-derived soils, which hindered plowing for crop agriculture.|392
+NA21|Central Tallgrass Prairie|This ecoregion, the heart of the tallgrass prairie, is the iconic North American prairie, with grasses up to 3 m tall on the best soils, waving in the wind over root systems just as long or sometimes longer.|388
+NA12|Northern Tallgrass Prairie|This ecoregion represents the northernmost tallgrass prairie in North America, extending north into a true boreal climate. |397
+NA12|Canadian Aspen Forests and Parklands|This ecoregion is an immense region stretching from southwestern Minnesota and southeastern North Dakota.|386
+NA12|Northern Shortgrass Prairie|This ecoregion, sprawling across five U.S. states and two Canadian provinces, is the largest grassland ecoregion in North America.|396
+NA20|Western Shortgrass Prairie|The Western Shortgrass Prairie is the second largest grassland ecoregion in North America, stretching from Texas and New Mexico in the south to Nebraska and Wyoming in the north.|402
+NA20|Edwards Plateau Savanna|This ecoregion, the heart of the famed Texas Hill Country, lies to the west of the Texas Blackland Prairies ecoregion and is bordered on the south by the Tamaulipan Mezquital and on the southwest by the Chihauhuan Desert.|391
+NA20|Cross-Timbers Savanna-Woodland|This ecoregion covers a long latitudinal extent from Texas north through eastern Oklahoma and a small portion of eastern Kansas.|390
+NA20|Central-Southern US Mixed Grasslands|This ecoregion forms an ecological transition from tallgrass to shortgrass prairie. From north to south, its eastern boundary abuts the Central Tallgrass, Flint Hills Tallgrass, and Cross-Timber Savanna-Woodland ecoregions.|389
+NA20|Nebraska Sand Hills Mixed Grasslands|This ecoregion is the smallest ecoregion in the Great Plains but stands out as the most intact of all Great Plains ecoregions and, most significantly, as the largest area of sand dunes in the entire Western Hemisphere. |395
+NA14|Okanogan Dry Forests|This ecoregion is a complex mix of forest, grassland, and desert shrubland, and in its western portion, subalpine and alpine vegetation.|362
+NA14|Fraser Plateau and Basin Conifer Forests|This ecoregion occupies a transitional area of plateaus and plains covering much of the central interior of British Columbia.|355
+NA13|Montana Valley and Foothill Grasslands|This ecoregion forms the matrix of the northern Greater Yellowstone Ecosystem (GYE), westward into central Idaho.|394
+NA13|South Central Rockies Forests|This ecoregion contains the world’s first national park, Yellowstone, as well as Grand Teton National Park and many designated Wilderness areas.|367
+NA13|Central British Columbia Mountain Forests|This ecoregion is oriented northwest-southeast and lies to the east of the Coast Mountains.|350
+NA13|Northern Rockies Conifer Forests|This ecoregion encompasses the well-known Rocky Mountain parks of Canada (Jasper, Banff, Yoho, Glacier, Kootenay, and Waterton Lakes National Parks, as well as several Provincial Parks) and the United States (Glacier National Park and several Wilderness Areas, including the Bob Marshall, Selway-Bitterroot, and Cabinet Mountains). |361
+NA19|Wyoming Basin Shrub Steppe|The large Wyoming Basin Shrub Steppe ecoregion is largely confined to Wyoming, but overlaps into southern Montana, southeastern Idaho, northeastern Utah, and northwestern Colorado.|438
+NA19|Colorado Plateau Shrublands|This ecoregion is bounded on the north by the Wyoming Basin Shrub Steppe and on the east by the Colorado Rockies Forests.|429
+NA19|Wasatch and Uinta Montane Forests|This ecoregion constitutes the western edge of the greater Rocky Mountains and consists of two mountain ranges: the north-south oriented Wasatch Range and the east-west oriented Uinta Range.|368
+NA19|Colorado Rockies Forests|The Colorado Rockies Forests ecoregion is massive and diverse in physical conditions and vegetation.|353
+NA19|Arizona Mountains Forests|This ecoregion lies to the north of southeastern Arizona’s and southwestern New Mexico’s isolated “sky islands,” the northern outliers of the extensive Sierra Madre Occidental Pine-Oak Forests ecoregion.|346
+NA18|Snake-Columbia Shrub Steppe|This vast ecoregion encompasses the sagebrush steppe of southeastern Oregon, northern Nevada, extreme northeastern California, southern Idaho, and a tiny slice of western Wyoming.|434
+NA18|Great Basin Shrub Steppe|This huge ecoregion encompasses most of Nevada, nearly half of Utah, and small adjoining areas of California and Idaho.|430
+NA18|Great Basin Montane Forests|A conspicuous feature of the Great Basin of North America is an archipelago of uplifted fault block mountains jutting out of a vast sea of sagebrush.|356
+NA17|Palouse Prairie|This ecoregion occupies a large area of the Columbia Basin and Okanogan Highlands physiographic provinces of north-central Oregon, central and eastern Washington, and small areas of western Idaho and south-central British Columbia.|398
+NA17|Blue Mountains Forests|This ecoregion occupies a broad swath of central Oregon (east of the Eastern Cascades) and northeastern Oregon, as well as adjacent areas of southeastern Washington and western Idaho. |348
+NA31|Santa Lucia Montane Chaparral and Woodlands|This ecoregion is a small region bordering the Pacific Ocean in the Santa Lucia Mountains and vicinity, part of the Southern Coast Ranges of California.|425
+NA31|California Montane Chaparral and Woodlands|This ecoregion occupies the Transverse Ranges of southern California, from north of Santa Barbara to northeast of San Bernardino, and the Peninsular Ranges, from east of San Jacinto southward to east of San Diego, as well as several disjunct blocks in northern Baja California. |424
+NA31|California Interior Chaparral and Woodlands|This ecoregion wraps around California’s Central Valley, extending from Shasta Lake in the north to the vicinity of Wheeler Ridge in the south.|423
+NA31|California Coastal Sage and Chaparral|This ecoregion stretches from the vicinity of Santa Barbara, California, southward along the coastal plain, coastal terraces, and mountains south of the east-west Traverse Ranges to northeastern Baja California, Mexico.|422
+NA31|California Central Valley Grasslands|The California Central Valley ecoregion stretches from Red Bluff, California, southeastward 720 km to the vicinity of Wheeler Ridge.|385
+NA31|Sierra Nevada Forests|This ecoregion lies between the California Central Valley Grasslands ecoregion to the west, which is enveloped by the California Interior Chaparral and Woodlands ecoregion, and the Great Basin Shrub Steppe ecoregion to the east.|366
+NA16|North Cascades Conifer Forests|This ecoregion encompasses the northern section of the Cascades Mountains in Washington and adjacent British Columbia.|358
+NA16|Eastern Cascades Forests|This ecoregion spans the eastern slope of the Cascades Mountains.|354
+NA16|Central-Southern Cascades Forests|This ecoregion stretches from the northern edge of the Sierra Nevada Range in California, just south of Mt. Lassen, northward through western Oregon to north of Mt. Rainier in Washington. |352
+NA16|Willamette Valley Oak Savanna|This ecoregion occupies the Willamette River Valley of northwest Oregon, between the Cascade Mountains and the Oregon Coast Range.|403
+NA15|Northern California Coastal Forests|This ecoregion is often called the Redwood Region because it encompasses most of the range of one of the truly spectacular forests on Earth—the coast redwood forest. |359
+NA15|Klamath-Siskiyou Forests|This ecoregion is the most biologically important temperate forest ecoregion in all of western North America, in terms of concentrations of endemic species and ancient lineages.|357
+NA15|Haida Gwaii Conifer Forests|This ecoregion encompasses all 150 islands and the many islets in this archipelago. |365
+NA15|Puget Lowland Forests|This ecoregion is centered on a north-south depression, the Puget Trough, between the Cascade Range and the Olympic Peninsula in Washington, including Seattle.|364
+NA15|Central Pacific Northwest Coastal Forests|This ecoregion is a thin but long ecoregion extending from the southern Oregon coast in the south, northward through coastal Washington and British Columbia to the border with Alaska.|351
+NA15|British Columbia Coastal Conifer Forests|This ecoregion lies between the Pacific Coastal Mountain Icefields and Tundra ecoregion to the west and the Central British Columbia Mountain Forests ecoregion to the east.|349
+NA23|Southern Great Lakes Forests|This ecoregion occupies much of the industrial heartland of North America and is also highly agricultural.|342
+NA23|Interior Plateau US Hardwood Forests|This ecoregion lies to the west of the Cumberland Plateau and includes a small part of northern Alabama, most of central Tennessee, central and western Kentucky, and the southernmost portions of Illinois, Indiana, and southwestern Ohio.|336
+NA24|Appalachian-Blue Ridge forests|This ecoregion includes the Blue Ridge and Valley and Ridge physiographic provinces, a long region stretching from central Alabama northeastward to New York state and including portions of 10 states.|331
+NA24|Appalachian Piedmont Forests|This ecoregion lies between the Coastal Plain and the Appalachian Mountains.|330
+NA24|Appalachian Mixed Mesophytic Forests|This ecoregion includes the Cumberland Plateau, Cumberland Mountains, and much of the Allegheny Plateau physiographic provinces, stretching from northern Alabama to western Pennsylvania. |329
+NA24|Allegheny Highlands Forests|This ecoregion encompasses a large part of the Allegheny Plateau physiographic province, including both unglaciated and glaciated portions, in Pennsylvania and New York.|328
+NA11|Western Great Lakes Forests|This ecoregion stretches from Michigan, where it encompasses nearly half of the Lower Peninsula and all of the Upper Peninsula, through northern Wisconsin and Minnesota, southwestern Ontario, to the southeastern corner of Manitoba.|344
+NA11|Upper Midwest US Forest-Savanna Transition|This ecoregion encompasses most of the Minneapolis-St. Paul metropolitan area and many smaller cities. |343
+NA11|Eastern Great Lakes Lowland Forests|This ecoregion covers most of the region around the eastern Great Lakes and the St. Lawrence River. |334
+NA11|Eastern Canadian Temperate-Boreal Forest Transition|This ecoregion encompasses the southern portion of the Canadian (Precambrian) Shield in Ontario and Quebec, with the southern boundary of the Shield defining the southern border of this ecoregion. |333
+NA10|Northeast US Coastal Forests|This ecoregion stretches across a long strip of latitude and includes parts of 11 states, from Virginia to southern Maine.|339
+NA10|New England-Acadian Forests|This vast ecoregion has a humid cold temperate to boreal climate. The entire region, including most of the coastal zone, is hilly to mountainous, with the highest elevations in the White Mountains of New Hampshire. |338
+NA10|Gulf of St. Lawrence Lowland Forests|This ecoregion is surrounded by the New England-Acadian Forests ecoregion and the Atlantic Ocean’s Gulf of St. Lawrence.|335
+NA28|Texas Blackland Prairies| The northern portion encompasses the city of Dallas, whereas the narrow southern portion encompasses most of Austin and San Antonio. |401
+NA28|Piney Woods Forests|This ecoregion occupies the West Gulf Coastal Plain and encompasses eastern Texas (including the “Big Thicket”) as well as western Louisiana, southwestern Arkansas, and a small portion of southeastern Oklahoma.|363
+NA28|East Central Texas Savanna-Woodland|This ecoregion is a relatively long (in latitude) but narrow ecoregion almost entirely confined to Texas, plus a small part of southeastern Oklahoma north of the Red River.|332
+NA27|Western Gulf Coastal Grasslands|This ecoregion is part of the North American Coastal Plain, which in 2016 was formally recognized by the Critical Ecosystem Partnership Fund as the 36th global biodiversity hotspot.|384
+NA26|Bermuda Subtropical Conifer Forests|The Bermuda Islands are an isolated, crescent-shaped chain of more than 150 limestone islands distinguished by the northernmost mangrove swamps and tropical coral reefs in the Atlantic Ocean.|325
+NA25|Southeast US Conifer Savannas|This ecoregion is the biologically richest portion of the North American Coastal Plain.|399
+NA25|Mid-Atlantic US Coastal Savannas|This ecoregion is a northern extension of the vast Southeast US Conifer Savannas ecoregion. |393
+NA25|Atlantic Coastal Pine Barrens|This ecoregion represents the northern end of the North American Coastal Plain geological region.|347
+NA25|Mississippi Lowland Forests|This ecoregion occupies the lower portion of this watershed, along the Mississippi River and its tributaries from the river mouth in Louisiana to the southern tip of Illinois. |337
+NA22|Ozark Mountain Forests|This ecoregion comprises the Boston Mountains (a deeply dissected plateau that forms the southwestern and highest portion of the Ozark Plateau), the Arkansas (River) Valley, and the Ouachita Mountains.|341
+NA22|Ozark Highlands Mixed Forests|This ecoregion constitutes the western portion of the central hardwoods forest region of the United States, but as a transitional region between forest and prairie it also contains many types of grassland.|340
+NA30|Sonoran Desert| In addition to portions of Arizona and Sonora, the Sonoran Desert occupies southeastern California (south of the Mojave Desert) and northeastern Baja California. |435
+NA30|Mojave Desert|This ecoregion covers southern Nevada and portions of western Arizona and southeastern California.|433
+NA30|Gulf of California Xeric Scrub|This ecoregion stretches along the eastern coast of the Baja Peninsula, bordering the Gulf of California from Bufeo in the north to La Paz in the south.|431
+NA30|Baja California Desert|This ecoregion is one of the wildest and most intact ecoregions in Mexico, occupying most of the Baja California Peninsula and almost all of its western portion in both the states of Baja California Norte and Baja California Sur. |426
+NA29|Tamaulipan Mezquital|This ecoregion occupies the southwestern portion of the Gulf Coastal Plain in southern Texas and northeastern Mexico.|437
+NA29|Tamaulipan Matorral|The Tamaulipan Matorral is a small ecoregion located in a transitional area between the Nearctic and Neotropic realms|436
+NA29|Meseta Central Matorral|This ecoregion is an arid lowland plain separating the massive mountain ranges of the Sierra Madre.|432
+NA29|Chihuahuan Desert|The Chihuahuan Desert, the largest and most biologically diverse North American desert, sprawls across southeastern Arizona, southern New Mexico, much of western Texas, and north-central Mexico. |428
+NA29|Central Mexican Matorral|This ecoregion is a relatively flat desert, with elevations up to 2,000 m, surrounded by mountains and with mountain ranges embedded within it.|427
+NA29|Sierra Madre Oriental Pine-Oak Forests|This ecoregion extends from several isolated mountain ranges in the southwestern U.S., including the Davis and Chisos Mountains in the Big Bend area of Texas and the San Andres and Organ Mountains of southern New Mexico, south through several Mexican states to just northeast of Mexico City.|327
+NA29|Sierra Madre Occidental Pine-Oak Forests|Stretching from southeastern Arizona’s “sky islands” to just north of Guadalajara in Jalisco, this extensive ecoregion is one of the most species-rich in North America|326
+NA29|Sonoran-Sinaloan Subtropical Dry Forest|This ecoregion is transitional between the Nearctic Sonoran Desert to the north and west and the Neotropic Sinaloan Dry Forests to the south and east. |324
+OC11|Northwest Hawai'I Scrub|The far-flung chain of nine major islands extends approximately 1,600 km from rocky Nihoa in the southeast to low Kure Atoll. |641
+OC11|Hawai'I Tropical Low Shrublands|This ecoregion contains the driest of all lowland habitats in the archipelago. |640 
+OC11|Hawai'i Tropical High Shrublands|This ecoregion’s alpine deserts, alpine grasslands, and sparse shrublands occur above 3,000 m up to 4,207 m and only support a few hardy drought- and cold-adapted species.|639
+OC11|Hawai'I Tropical Dry Forests|The leeward side of the main islands of Hawai’i are drier as the central ranges and large volcanoes capture much of the rain brought by the trade winds.|636
+OC11|Hawai'I Tropical Moist Forests|Tropical moist forests of Hawai'i occur as mixed mesic forests, rain forests, wet shrublands, and bogs in swampy areas.|623
+OC9|Marianas Tropical Dry Forests|The Mariana Islands cover a 900 km arc in the western Pacific Ocean. |637
+OC8|Yap Tropical Dry Forests|The Yap Islands group is located about 450 km northeast of Palau.|638
+OC8|Palau Tropical Moist Forests|An incredible 586 islands make up the archipelago of Palau in western Micronesia. |627
+OC8|Carolines Tropical Moist Forests|The Caroline Islands includes the Remetau Group, Chuuk, Pohnpei, and Kosrae.|618
+OC6|Fiji Tropical Dry Forests|Viti Levu and Vanua Levu, the two biggest islands in Fiji, has about a third of their land area covered in dry forest along each of their northwest lowlands.|635
+OC6|Tongan Tropical Moist Forests|Tongan islands are volcanic, though the southern island of 'Eua is believed to be a fragment of the ancient Gondwanaland supercontinent and may harbor some ancient invertebrates and plants.|631
+OC6|Fiji Tropical Moist Forests|Out of over 300 islands, the islands of Viti Levu and Vanua Levu occupy 78% of the ecoregion’s land area and support the tallest mountain at 1,323 m. |622
+OC6|Kermadec Islands Subtropical Moist Forests|The remote Kermadec archipelago occurs in an island chain of 13 small islands 1,000 km northeast of North Cape, New Zealand. |624
+OC5|Western Polynesian Tropical Moist Forests|The ecoregion has three clusters of atolls and makatea islands (uplifted reefs): 8 atolls in the Phoenix Islands; 4 in Tokelau; and 9 in Tuvalu. |634
+OC5|Samoan Tropical Moist Forests|Samoa consists of a chain of 14 volcanic islands located 600 km east of Fiji. |629
+OC4|Central Polynesian Tropical Moist Forests|This ecoregion encompasses the Northern Line Islands, Southern Line Islands, and Northern Cook Islands. Isolated Johnston is also included in this ecoregion. |619
+OC3|Tubuai Tropical Moist Forests|Like the Society Islands to the north, the Tubuai Islands are eroded volcanic peaks that are surrounded by uplifted limestone reef.|633
+OC3|Tuamotu Tropical Moist Forests|This vast ecoregion encompasses the 76 atolls and islands of Tuamotu, and stretches 1,800 km to the Gambier Islands and the Pitcairn Islands 1,000 km to the east.|632
+OC3|Society Islands Tropical Moist Forests|These verdant islands are covered in lowland rain forest, montane rain forest, and, at the highest points, cloud forest.|630 
+OC3|Cook Islands Tropical Moist Forests|The Cook Islands, one of the most remote archipelagos in the world, are home to some of the planet’s most dazzling birds.|620
+OC2|Marquesas Tropical Moist Forests|The 12 Marquesas Islands are volcanic high islands with very rugged topography, knife-edged ridges, deeply dissected gorges, and cliffs plunging from mountaintops steeply to sea level. |625
+OC1|Rapa Nui and Sala Y Gómez Subtropical Broadleaf Forests|This isolated volcanic island in the eastern Pacific supported a simple and  unique ecosystem until Polynesians arrived thousands of years ago and transformed it to grass savannas.|628
+OC10|Ogasawara Subtropical Moist Forests|The Ogawasara (or Bonin) and Iwo (or Volcano) Islands are a widely scattered archipelago of 20 major volcanic islands once covered in subtropical moist and dry forests. |626
+OC7|Eastern Micronesia Tropical Moist Forests|Low atolls scattered across the central Pacific comprise this ecoregion, with Wake Island and Nauru as single-island outliers, and the Marshall Islands and Kiribati archipelagos of many islands.|621
+NT11|Northern Andean Páramo|This ecoregion includes the high altitude wet grasslands that are above the tree line and below the snow line within the equatorial Andes.|593
+NT11|Cordillera De Merida Páramo|This ecoregion consists of specialized high elevation grassland communities which occur in three distinct oblong patches.|591
+NT11|Cordillera Central Páramo|Essential for the regional water cycle, this ecoregion is the origin of many streams running down the Pacific and Atlantic slopes. |590
+NT11|Patía valley dry forests|The Patía Valley is a dry pocket “valley” surrounded by the cloud forests of the Central and Western cordilleras of Colombia.|542
+NT11|Magdalena Valley Dry Forests|This ecoregion, located within the Northern Andes, occurs along the dry inter-Andean valley formed by the largest river in Colombia, the Magdalena.|538
+NT11|Cauca Valley Dry Forests|The dry inter-Andean valley is located between the west and central Andes in Colombia.|526
+NT11|Bolivian Montane Dry Forests|This ecoregion is restricted to south-central Bolivia, flanking the eastern Andes, and barely reaching northwest Argentina.|523
+NT11|Venezuelan Andes Montane Forests|This ecoregion occupies montane forests at middle elevations of the Venezuelan Andes, a northeastern branch of the Andes mountain range.|513
+NT11|Southern Andean Yungas|This ecoregion, spanning across southwestern Bolivia and northwestern Argentina, is loosely bordered on the east by dry lowland vegetation of the Chaco and tightly on the west by the Bolivian Montane dry forests.|504
+NT11|Peruvian Yungas|This ecoregion flanks the eastern slopes of the Andes, roughly from the Marañon Valley depression northern Peru to near the Rio Huari Huari (Cordillera Carabaya) near the Bolivian border. |493
+NT11|Northwest Andean Montane Forests|This ecoregion is found in northwest South America in the center of Colombia and Ecuador within a 150 km wide chain of the Andes Mountains.|486
+NT11|Marañon Dry Forests|This ecoregion extends along the upper Marañon River valley and its tributaries in northwestern Peru.|479
+NT11|Magdalena Valley Montane Forests|Magdalena Valley Forests grow on the inner slopes of the Eastern and Central cordilleras in the Northern Andes of Colombia.|477
+NT11|Eastern Cordillera Real Montane Forests|The Eastern Cordillera Real Montane Forests ecoregion is located on the eastern slopes of the middle Andes, extending north-south from southern Colombia, through Ecuador, and into northern Peru.|460
+NT11|Cordillera Oriental Montane Forests|These forests span the eastern slopes of the Andean Cordillera Oriental from their northernmost point southwards through most of Colombia.|457
+NT11|Cauca Valley Montane Forests|Located at the northwestern end of the Andes Mountain Range in southwestern Colombia, the Cauca Valley is nestled between the western and central ranges of the Andes and stretches for 600 km in a south-north direction.|448
+NT11|Bolivian Yungas|This ecoregion in Bolivia and parts of Peru forms a transition along the Andean slope between Amazonian and highland Puna habitats, which contributes to the high levels of biodiversity and endemism characterizing this unique ecoregion.|444
+NT10|South American Pacific Mangroves|The South American Pacific Mangrove ecoregion is comprised of five subecoregions.|615
+NT10|Guayaquil Flooded Grasslands|This ecoregion is in the provinces of El Guayas, Los Ríos, and El Oro in Ecuador.|582
+NT10|Tumbes-Piura Dry Forests|This Tumbes-Piura Dry Forest ecoregion is located in the equatorial region of South American between the Pacific Ocean and the western slope of the Andes Mountains.|549
+NT10|Ecuadorian Dry Forests|This ecoregion extends along the Pacific Coast southward from southern Esmeraldas province in northern Ecuador into the Guayas province, ending at the Golfo de Guayaquil. |531
+NT10|Western Ecuador Moist Forests|Located in southwestern Colombia and western Ecuador, the ecoregion boundaries extend from the Patia River in the north and ending at the foothills of the Andes Mountains in the east.|516
+NT8|Sechura Desert|This ecoregion occupies the western subtropical portion of South America. It borders the Pacific Ocean on the west and extends between 20–100 km inland on the east until reaching the Andean secondary ridges.|608
+NT8|Atacama Desert|The Atacama Desert is considered one of the driest coastal deserts in the world. It forms a continuous strip for nearly 1,000 km along the narrow coast of the northern third of Chile. |598
+NT7|San Félix-San Ambrosio Islands Temperate Forests|The Desventuradas archipelago, or “Unfortunate Islands”, are formed by four Pacific islands, including San Félix and San Ambrosio.|562
+NT7|Juan Fernández Islands Temperate Forests|The Juan Fernández archipelago, also known as the Robinson Crusoe Islands, is located off the coast of Chile in the southeastern part of the Pacific Ocean.|560
+NT6|Chilean Matorral|This ecoregion constitutes a 100 km-wide strip extending along the central part of the Chilean coast between the Pacific Ocean to the west and the Andes Mountains to the east.|596
+NT5|High Monte|The High Monte ecoregion, also called the High Monte desert locally, is bounded in the west in the rain shadow of the Andes, in the north by the high arid Puna, in the east by the arid–semiarid woodlands of the Chaco and Espinal.|592
+NT5|Southern Andean Steppe|A relatively untouched piece of nature, the Southren Andean Steppe ecoregion extends along the high elevations of the Andes of central Argentina and in part of Chile at altitudes between 1,800 and 5,000 m.|595
+NT5|Central Andean Wet Puna|This ecoregion is located in the Andean Mountains of Peru and eastern Bolivia, with landscapes filled with snow-capped peaks, mountain grasslands, high lakes, plateaus, and valleys.|589
+NT5|Central Andean Puna|This ecoregion is a high elevation montane grassland in the southern high Andes, extending from southern Peru, though Bolivia, into northern Argentina.|588
+NT5|Central Andean Dry Puna|This ecoregion is nestled between the tree-line and the permanent snow-line in a very dry region of this mountain range.|587
+NT9|Galápagos Islands Xeric Scrub|The Galápagos Islands Xeric Scrub ecoregion encompasses the entire Galápagos archipelago, including about 128 named islands.|601
+NT1|Valdivian Temperate Forests|The Valdivian Temperate Forests ecoregion is in the southern cone of South America.|563
+NT1|Magellanic Subpolar Forests|The Magellanic Subpolar Forests cover the flanks of the southern Andes and adjacent lowlands of South America.|561
+NT4|Dry Chaco|This ecoregion is generally restricted to the northwestern two-thirds of western Paraguay, and east of the Andes in southeastern Bolivia and northwestern Argentina|569
+NT4|Humid Chaco|The Humid Chaco ecoregion is located in northeastern Argentina, the center of Paraguay, and small areas in southwestern Brazil. |571
+NT3|Southern Cone Mesopotamian Savanna|"The Southern Cone Mesopotamian savanna ecoregion is grassland-wetland mosaic covering the region of Argentine “Mesopotamia."""|586
+NT3|Paraná Flooded Savanna|This ecoregion includes the floodplains of the middle and lower Paraná River and its tributary, the Paraguay River.|585
+NT3|Humid Pampas|The Humid Pampas occupy the plains in the east of Argentina, taking up most of the province of Buenos Aires.|576
+NT3|Espinal|The Espinal ecoregion is in central Argentina extending from central Santa Fe through the province of Córdoba to the north of San Luis.|575
+NT3|Uruguayan Savanna|This ecoregion extends from the extreme southern part of the Rio Grande do Sul, a Brazilian state, to include the entire country of Uruguay, and a small section of the Argentinean province of Entre Ríos.|574
+NT2|Patagonian Steppe|This ecoregion mainly covers the Patagonia region of Argentina from the Atlantic Ocean shore and extends into southwestern Chile.|578
+NT2|Low Monte|The Low Monte is in north-central Argentina, extending along the eastern foothills of the Andes until reaching the Patagonian steppe, then extends eastwards to the Pacific Ocean.|577
+NT15|Maranhão Babaçu Forests|This ecoregion is located in eastern Brazil at the very eastern and southern flank of the Amazon Basin.|540
+NT15|Caatinga|This ecoregion is the largest dry forest region in South America and one of the richest dry forests in the world.|525
+NT15|Brazilian Atlantic Dry Forests|This forest-dominated ecoregion is surrounded by open vegetation of Caatinga in the north and east and Cerrado in the west and south.|524
+NT15|Caatinga Enclaves Moist Forests|This ecoregion consists of five established patches of Atlantic forest that are surrounded by a variety of dry Caatinga vegetation in northeast Brazil.|445
+NT13|Cerrado|Cerrado is the largest savanna region in South America and biologically the richest savanna in all the world.|567
+NT13|Campos Rupestres Montane Savanna|This ecoregion is part of the Espinhaço Mountain Range in Brazil, an ancient plateau formed by pre-Cambrian crystalline rocks that extend from the North Bahia southward to Serra do Ouro Branco.|566
+NT12|Pantanal|This ecoregion is located roughly in the center of South America, near the borders of Brazil, Bolivia, and Paraguay.|584
+NT12|Chiquitano Dry Forests|Most of the Chiquitano forest lies within the eastern lowlands of Santa Cruz, Bolivia, with smaller patches extending into western Mato Grosso, Brazil.|529
+NT14|Southern Atlantic Brazilian Mangroves|The Southern Atlantic Brazilian Mangroves ecoregion comprises four subecoregions.|616
+NT14|St. Peter and St. Paul Rocks|More than 800 km from South America, St. Peter and St. Paul’s Rocks are a small group of islands in the equatorial Atlantic Ocean. |609
+NT14|Trindade-Martin Vaz Islands Tropical Forests|The Trindade and Martin Vaz Archipelago is the most eastward point of Brazilian territory and is a result of volcanic activity deep below the Atlantic Ocean.|509
+NT14|Serra Do Mar Coastal Forests|The Serra do Mar coastal forests cover a 100-km wide strip along the Atlantic Coast of Southern Brazil. |500
+NT14|Pernambuco Interior Forests|Pernambuco Interior Forest is located in a narrow strip, approximately 50 km wide, between the ecoregions of Pernambuco Coastal Forests and Caatinga, in northeastern Brazil.|492
+NT14|Pernambuco Coastal Forests|The Pernambuco Coastal Forests ecoregion is one of the most unique habitats in the Atlantic coast region of Brazil.|491
+NT14|Fernando De Noronha-Atol Das Rocas Moist Forests|The archipelago of Fernando de Noronha and its neighbor Atol das Rocas belong to the Fernando de Noronha Chain of submerged east-west volcanic mountains.|462
+NT14|Bahía Interior Forests|This ecoregion covers a large area, including the Brazilian states of Sergipe, Bahía, Minas Gerais, Espírito Santo, and Rio de Janeiro. |443
+NT14|Bahia Coastal Forests|Bahía Coastal Forests have been given highest priority for biodiversity conservation by local governments because they harbor an extraordinary number of endemic species of vascular plants, birds, primates, and butterflies.|442
+NT14|Atlantic Coast Restingas|Atlantic Coast Restingas consist of three well-defined areas of restinga forests distributed from northeastern to southeastern Brazil. |441
+NT14|Araucaria Moist Forests|This ecoregion is bordered on the north and west by the Alta Paraná Atlantic Forests, on the south by the pampas grasslands, and on the east by Serra do Mar Coastal Moist Forests.|440
+NT14|Alto Paraná Atlantic Forests|The Alto Paraná Atlantic Forests represent a large block of Atlantic semi-deciduous forest spread from Southeast Brazil and Paraguay to northern Argentina.|439
+NT14|Campos Rupestres Montane Savanna|This ecoregion is part of the Espinhaço Mountain Range in Brazil, an ancient plateau formed by pre-Cambrian crystalline rocks that extend from the North Bahia southward to Serra do Ouro Branco.|566
+NT20|Uatumã-Trombetas Moist Forests|Uatumã-Trombetas moist forests comprise the vast region north of the Amazon River in the eastern portion of Brazil, extending almost to the Atlantic coast and upwards to Guyana and Suriname. |511
+NT20|Rio Negro Campinarana|This ecoregion occur as isolated patches “sand forest” along the Rio Negro and Rio Branco basins in Venezuela and northern Brazil. |498
+NT20|Negro-Branco Moist Forests|Rivers in the countries of Colombia, Venezuela, and Brazil bind the Negro-Blanco Moist Forests ecoregion. |484
+NT20|Japurá-Solimões-Negro Moist Forests|This ecoregion is situated on the lowland plateau in the central northern portion of the Amazon Basin in Brazil with tiny sections touching Colombia and Venezuela.|473
+NT20|Gurupa Várzea|The Gurupa várzea ecoregion is named for the large alluvial island, Ilha Grande de Gurupá, occurring in the mouth of the Amazon River. |467
+NT18|Beni Savanna|The Beni Savannas are the 3rd largest complex of savannas in South America.|565
+NT18|Ucayali Moist Forests|This ecoregion is located entirely within Peru at the foot of the Andes mountains and includes the basin west of the Ucayali river, a major branch of the Amazon river.|512
+NT18|Southwest Amazon Moist Forests|The Southwest Amazon moist forest region covers an extensive area of the Upper Amazon Basin comprising four sub-basins.|505
+NT18|Iquitos Várzea|This ecoregion  comprises the low and upper Amazon, Ucayali, Marañon, Madre de Dios in Peru and Bolivia, and several smaller tributaries to the Amazon in Peru, and the upper Juruá and Purus Rivers in Brazil.|469
+NT17|Xingu-Tocantins-Araguaia Moist Forests|Located primarily between the Xingu and Lower Tocantins Rivers in Brazil, this ecoregion also includes the area around the Araguaia River. |518
+NT17|Tapajós-Xingu Moist Forests|This ecoregion lies in central-eastern Brazil south of the Amazon River, comprising the interfluvial plain between the Tapajós and Xingu Rivers, both major tributaries to the Amazon River.|507
+NT17|Mato Grosso Tropical Dry Forests|The Mato Grosso Tropical Dry Forests are in the Mato Grosso and Para provinces of central Brazil. |481
+NT17|Madeira-Tapajós Moist Forests|The ecoregion lies in central Amazonia, including a considerable expanse of land area between the Madeira and Tapajós Rivers (both major tributaries to the Amazon). |476
+NT16|Northeast Brazil Restingas|The Northeastern Brazil Restingas extend approximately 400 km along a disjunct coastal strip, through the northern portions of the Brazilian states of Maranhão, Piauí, and Ceará.|485
+NT16|Amazon-Orinoco-Southern Caribbean Mangroves|The Amazon-Orinoco-Southern Caribbean Mangrove ecoregion is comprised of seven subecoregions.|611
+NT16|Tocantins/Pindare Moist Forests|In the Brazilian State of Pará, the ecoregion extends west to the Tocantins River and south to the Mearim River in Maranhão State.|508
+NT16|Marajó Várzea|This várzea ecoregion comprises the entire Marajó Island, many smaller channel islands, and the surrounding mainland on both the northern and southern banks of the Amazon.|480
+NT19|Solimões-Japurá Moist Forests|This ecoregion lies on well-drained upland tertiary alluvial plains in western Amazonia.|503
+NT19|Purus-Madeira Moist Forests|The Purus-Madeira Moist Forest ecoregion lies in the center of the Brazilian Amazon, between the Purus and Madeira Rivers.|497
+NT19|Purus Várzea|This ecoregion in Brazil comprises portions of the low, seasonally flooded river basins of the central Amazon.|496
+NT19|Napo Moist Forests|The Rio Napo ecoregion covers the north-western portion of Peru, the Amazon region of Ecuador, and the southwestern corner of Colombia’s Amazon.|483
+NT19|Monte Alegre Várzea|This ecoregion in Brazil comprises portions of the low, seasonally flooded river basins of the central and lower Amazon.|482
+NT19|Juruá-Purus Moist Forests|The Juruá-Purus Moist Forests ecoregion covers the valleys between the westernmost Amazon River to the Purus River. |474
+NT19|Caqueta Moist Forests|The Caquetá Moist Forest occurs in the Colombian Amazon. It is bound on the northeast by the Guainía, Guaviare, and Guayabero Rivers and on the western extreme by the small Rio Losada, south of the Serranía de la Macarena.|446
+NT23|Paraguana Xeric Scrub|This ecoregion lies within two of the four existing physiographic provinces, which are characterized by distinct geography and landscape features, in the northwest region of Venezuela.|606
+NT23|La Costa Xeric Shrublands|The La Costa Xeric Shrublands are part of the Coastal Cordillera geographical region in northern Venezuela.|603
+NT23|Guajira-Barranquilla Xeric Scrub|The Guajira-Barranquilla Xeric Scrub is found within three enclaves in parts of Venezuela and Colombia along the Caribbean Sea.|602
+NT23|Araya and Paria Xeric Scrub|The ecoregion extends through portions of Margarita Island, the Araya-Paria peninsula, and onto the mainland of Cumaná in Venezuela.|597
+NT23|Santa Marta Páramo|The Santa Marta páramos are the northernmost occurrence of this habitat type in South America. |594
+NT23|Sinú Valley Dry Forests|This ecoregion is situated at the northwestern extreme of the Andes, near the Darien-Panama bridge and between two major ecoregions—Chocó Wet Forests and Magdalena Medio Rain Forests.|546
+NT23|Maracaibo Dry Forests|The Maracaibo Dry Forests are located in the northwestern coastal area of Venezuela. |539
+NT23|Lara-Falcón Dry Forests|The Lara-Falcón Dry Forests lie in northern Venezuela, south of the Paraguana Peninsula, east of the Gulf of Maracaibo, and north of the Andes. |536
+NT23|Santa Marta Montane Forests|The Santa Marta Montane Forest ecoregion lies in northern Colombia in the extreme northwest of South America.|499
+NT23|Cordillera de la Costa Montane Forests|The Cordillera de la Costa Montane Forests ecoregion extends 720 km from east to west along the northern coast of Venezuela.|456
+NT23|Catatumbo Moist Forests|These Forests exist as four distinct regions within the Catatumbo Valley, and are comprised of isolated mountain, lowlands, Andean foothills, and valleys.|447
+NT23|Amazon-Orinoco-Southern Caribbean Mangroves|The Amazon-Orinoco-Southern Caribbean Mangrove ecoregion is comprised of seven subecoregions.|611
+NT22|Llanos|The Llanos ecoregion is an area of extensive plains, covered mainly by savanna vegetation, and of great economic importance for Venezuela and Colombia. |572
+NT22|Apure-Villavicencio Dry Forests|The Apure-Villavicencio Dry Forests border the eastern Cordillera de Mérida from Venezuela to the Serranía de Macarena in Colombia.|520
+NT21|Guianan Piedmont Moist Forests|A transitional ecoregion between the mountainous Pantepui forests and shrublands and Guianan highland moist forest and surrounding dry forests (Llanos) to the north and rain forests (Amazon Basin) to the south.|466
+NT21|Orinoco Wetlands|The ecoregion is located to the north of the Orinoco River Delta, the second largest river in the Neotropics, in eastern Venezuela.|583
+NT21|Guianan Savanna|The Gran Sabana patch is recognized as an important plant refuge and dispersal center, with several reported endemic species.|570
+NT21|Trinidad and Tobago Dry Forests|This ecoregion covers a small portion of land in the northwest of Trinidad and the very northern end of Tobago.|548
+NT21|Trinidad and Tobago Moist Forest|This moist forest ecoregion comprises approximately 90% of the land area of the archipelagic state of Trinidad and Tobago.|510
+NT21|Pantepui Forests and Shrublands|The landscape of Pantepui Forests & Shrublands ecoregion perforate an extensive matrix of highland savannas and rain forests across southern Venezuela, Guayana, Suriname, and Brazil. |490
+NT21|Orinoco Delta Swamp Forests|This ecoregion occurs in a continuous expanse of flooded forests and wetlands, occurring from the southern reaches of the Paria Peninsula in northern Venezuela.|488
+NT21|Guianan Lowland Moist Forests|This region is located on the northeastern coast of South America. The Amazon basin lies to the south and the Orinoco borders on the west. |465
+NT21|Guianan Highlands Moist Forests|"Situated in southeastern Venezuela in northern South America, the Guayanan Highlands Most Forests ecoregion is an elevational ""island"" surrounded by llanos and lowland forest. "|464
+NT21|Guianan Freshwater Swamp Forests|This Swamp Forests ecoregion extends as a narrow, near-coastal strip across all of northern Suriname, from the Courantyne River along the Guyanan border to the Maroni River along the French Guianan border.|463
+NT21|Amazon-Orinoco-Southern Caribbean Mangroves|The Amazon-Orinoco-Southern Caribbean Mangrove ecoregion is comprised of seven subecoregions.|611
+PA24|West Sahara Desert|This ecoregion is a largely barren landscape, speckled sparingly with oases and transient green spaces which only appear after rare rainfall. |845
+PA24|Saharan Atlantic Coastal Desert|A vibrant marine ecosystem is juxtaposed with arid desert plateaus in this spectacular stretch of coastline between Western Sahara and Mauritania that forms this ecoregion.|839
+PA24|North Saharan Xeric Steppe and Woodlands|This ecoregion extends right across North Africa, including parts of Western Sahara, Morocco, the northern edge of Mauritania, Algeria, Tunisia, Libya, and Egypt. |833
+PA24|East Sahara Desert|This ecoregion covers the central Sahara Desert.|822
+PA24|Canary Islands Dry Woodlands and Forests|The Canary Archipelago is a group of volcanic islands and rock islets located in the Atlantic Ocean, 115 km from the northwest coast of Africa.|787
+PA24|Saharan Halophytic|This ecoregion cover a number of saline depressions scattered across northern Africa.|745
+PA24|Nile Delta Flooded Savanna|This ecoregion extends along the Nile River from the Aswan High Dam 1,100 km downstream to the mouth of the Nile, and includes the delta in the North, which is about 175 km long and 260 km wide, opening to the Mediterranean sea. |744
+PA25|West Saharan Montane Xeric Woodlands|Mountain ranges such as Ahaggar, Tibesti, and Aïr rise up around the West Sahara Desert, notably in the south.|846
+PA25|Tibesti-Jebel Uweinat Montane Xeric Woodlands|This ecoregion encompasses two mountainous areas rising from the central Sahara Desert: Tibesti and the smaller Jebel Uweinat region.|844
+PA25|South Sahara Desert|The South Sahara Desert ecoregion crosses the African continent from the southern corner of Western Sahara and the northern half of Mauritania, to the northern part of Mali, southern Algeria, northern Niger, Chad, Sudan, and southeastern Egypt.|842
+PA25|East Saharan Montane Xeric Woodlands|This ecoregion is restricted to three specific locations: the Massif de l’Ennedi and Massif du Kapka in northeastern Chad and the nearby Jebel Marra in western Sudan|823
+PA23|Mediterranean Woodlands and Forests|This ecoregion covers the coastal plains, lowlands, and mid-elevations of northern Morocco, Algeria and Tunisia plus an isolated portion on the Cyrenaic Peninsular of Libya (Jabel al Akdar).|798
+PA23|Mediterranean Dry Woodlands and Steppe|This ecoregion stretches from eastern Morocco, across northern Algeria to the Mediterranean coast of Tunisia. |797
+PA23|Mediterranean Acacia-Argania Dry Woodlands and Succulent Thickets|This ecoregion mainly sits within Morocco and the two easternmost Canary Islands.|796
+PA23|Mediterranean High Atlas Juniper Steppe|This ecoregion is limited to areas of the High Atlas Mountains in Morocco above an altitude of 1,628 m.|758
+PA23|Mediterranean Conifer and Mixed Forests|This ecoregion comprises relict stands of fir and pine forest in the humid, medium to high elevations of major mountain massifs in North Africa, and in the southernmost mountains of Cádiz and Málaga in Spain.|701
+PA22|Madeira Evergreen Forests|Madeira is an archipelago of four islands in the Atlantic Ocean, about 560 km west of Morocco and 978 km southwest of Lisbon. |668
+PA26|South Arabian Plains and Plateau Desert|This ecoregion largely lies within Oman and Yemen, although it includes a small section in the United Arab Emirates in the East.|840
+PA26|Red Sea-Arabian Desert Shrublands|This ecoregion encompasses a great diversity of habitats, stretching from southwest Yemen to just north of the Dead Sea in Jordan with sections of Saudi Arabia, Israel, Palestine, and Egypt.|837
+PA26|Red Sea Coastal Desert|This ecoregion extends south from the Gulf of Suez, encompassing most of Egypt’s Red Sea coast and approximately half of Sudan’s coastline. |836
+PA26|North Arabian Highland Shrublands|This discontinuous ecoregion is situated in Saudi Arabia’s western Ha’il region. It encompasses the Shammar mountain range and surrounding patches of lowland gravel desert.|832
+PA26|North Arabian Desert|This ecoregion stretches across much of Jordan, northern Saudi Arabia and into Iraq’s western desert.|831
+PA26|Mesopotamian Shrub Desert|This ecoregion encompasses most of the Syrian Desert, also known as Badiyat ash Sham, stretching across East Jordan, southern Syria and western Iraq towards the foothills of the Zagros Mountains. |830
+PA26|East Arabian Fog Shrublands and Sand Desert|This ecoregion has a highly varied landscape, with two disjunct sections: the Wahiba Sands sand-sea in the North and the fossil-rich Huqf area in the South.|821
+PA26|Arabian-Persian Gulf Coastal Plain Desert|This disjointed ecoregion encompasses much of the Arabian Peninsula’s eastern coast, along the Arabian-Persian Gulf and Gulf of Oman, with a section in the Arabian Sea.|811
+PA26|Arabian Sand Desert|This ecoregion encompasses both the major sand deserts—Ad-Dahna, An-Nafud, Al-Jafurah, Rub’ al-Khali—and sand deserts in Saudi Arabia, characterized by high linear and crescent dunes interspersed with gravel and gypsum plains.|810
+PA26|Arabian Desert|This disjointed ecoregion encompasses large swathes of Egypt’s Sinai Desert, Israel’s Negev Desert, and other areas in Saudi Arabia, Yemen, Kuwait, Iraq, and Iran. |809
+PA26|Tigris-Euphrates Alluvial Salt Marsh|Located at the northern end of the Persian Gulf, these wetlands are formed in the deltaic plain of the Euphrates, Tigris, and Karun rivers, which drain Turkey, Syria, Iraq, and the western Zagros mountains of Iran.|747
+PA26|Syrian Xeric Grasslands and Shrublands|This ecoregion arcs across West Jordan, much of central Syrian Arab Republic, Northern Iraq, and a small area of Southwest Turkey.|739
+PA26|Al-Hajar Montane Woodlands and Shrublands|Running parallel to Oman’s Batinah coast, the limestone and dark opholite rocks of the Al-Hajar mountains form the largest mountain range in eastern Arabia.|723
+PA26|Al-Hajar Foothill Xeric Woodlands and Shrublands|This ecoregion surrounds the Al-Hajar Montane Woodlands and Shrublands ecoregion, encompassing the Al-Hajar foothills and lands lying below 1,200 m. |722
+NA5|Pacific Coastal Mountain Icefields and Tundra|This ecoregion parallels the Northern Pacific Alaskan Coastal Forests ecoregion, all the way from its southeastern extent in the Alaska Panhandle and adjacent British Columbia to its western terminus on the Kenai Peninsula along the Gulf of Alaska coast.|420
+NA5|Northern Pacific Alaskan Coastal Forests|This ecoregion is one of the wildest and best-protected regions of North America outside of arctic tundra and northern taiga zones.|360
+NA4|Alaska-St. Elias Range Tundra|This ecoregion gets its name from the Alaska Range and the Wrangell-St. Elias Range, both of which it encompasses.|405
+NA4|Copper Plateau Taiga|The Alaska-St. Elias Range Tundra ecosystem surrounds most of the Copper Plateau Taiga, except the Pacific Coastal Mountains Icefields and Tundra ecoregion forms the southern boundary of the Copper Plateau Taiga. |372
+NA4|Cook Inlet Taiga|This ecoregion surrounds the upper portion of Cook Inlet and includes the city of Anchorage, with 291,538 residents (in 2018) the most populous city in Alaska.|371
+NA4|Interior Alaska-Yukon Alpine Tundra|This ecoregion consists of a set of disjunct higher-elevation patches of tundra and open forest in a matrix of lowland taiga (the Interior Alaska-Yukon Lowland Taiga ecoregion) across the interior of Alaska, overlapping into southwestern Yukon Territory. |416
+NA4|Beringia Upland Tundra|This ecoregion occurs in two disjunct blocks: on the Seward Peninsula, where it is the dominant ecoregion, and a smaller area on the western half of St. Lawrence Island in the northern Bering Sea.|410
+NA4|Beringia Lowland Tundra|This ecoregion consists of the southwestern Alaska mainland, separated by the higher-elevation Ahklun and Kilbuck Upland Tundra ecoregion and extending down the Alaska Peninsula to Unimak Island.|409
+NA4|Aleutian Islands Tundra|This ecoregion encompasses the 1,500-km Aleutian chain, which stretches between the Alaska Peninsula and Kamchatka Peninsula in Russia, as well as the Pribilof Islands.|406
+NA4|Ahklun and Kilbuck Upland Tundra|This ecoregion consists primarily of the Ahklun and Kilbuck mountain ranges in southwestern Alaska and was formerly considered part of the Beringia Upland Tundra ecoregion.|404
+NA4|Interior Alaska-Yukon Lowland Taiga|This ecoregion sprawls across a large area of southern to northern Alaska and neighboring northwestern Yukon Territory.|375
+NA4|Alaska Peninsula Montane Taiga|This ecoregion is an area of rugged and picturesque coastline extending from the MacNeil River and the mouth of Cook Inlet in the northeast, down a relatively narrow peninsular to Unimak Island in the southwest, just off the tip of the peninsula. |369
+NA3|Brooks-British Range tundra|This ecoregion consists of the Western Brooks Range in Alaska, the lower-elevation Anaktuvuk Pass in Alaska, and the higher Eastern Brooks Range in Alaska, Yukon Territory, and a small part of extreme northwestern Northwest Territories. |411
+NA3|Arctic Foothills Tundra|This ecoregion, for most of its extent, lies between the Arctic Coastal Tundra ecoregion to the north and the Brooks-British Range Tundra ecoregion to the south.|408
+NA3|Arctic Coastal Tundra|This ecoregion forms most of the northern coastline of Alaska.|407
+NA2|Torngat Mountain Tundra|This peninsular ecoregion lies to the north of the Eastern Canadian Shield Taiga ecoregion and projects into the sea where the Atlantic Ocean (Labrador Sea) meets the Arctic Ocean (Ungava Bay). |421
+NA2|Davis Highlands Tundra|This ecoregion occupies the rugged mountain chain along the eastern coast of Baffin Island, Nunavut, and the relatively narrow coastal plain adjacent to Davis Strait.|415
+NA2|Canadian Middle Arctic Tundra|This ecoregion lies between the Canadian High Arctic Tundra to the north and the Canadian Low Arctic Tundra to the south and is ecologically transitional between these two ecoregions.|414
+NA2|Canadian Low Arctic Tundra|This ecoregion is the largest ecoregion in Northern America Realm and stretches as a continuous swath across northern Northwest Territories and Nunavut to Hudson Bay. |413
+NA2|Canadian High Arctic Tundra|This ecoregion encompasses most of the northern Arctic archipelago, from much of Baffin Island, Somerset, and Prince of Wales Islands in the south, through all islands northward to the most northern island in Canada, Ellesmere Island. |412
+NA9|Midwest Canadian Shield Forests|This ecoregion is an immense area stretching from the north shore of Lake Superior in Ontario northwestward through western Ontario and central Manitoba to the south shore of Lake Athabasca in northern Saskatchewan and Alberta.|377
+NA9|Eastern Canadian Boreal Forests|This ecoregion includes much of eastern Quebec, the southern part of Labrador, and the entire island of Newfoundland. |373
+NA9|Central Canadian Shield Forests|This ecoregion includes much of boreal northern Quebec and Ontario, north of the temperate-boreal transition forests, south of the taiga, and west to include the northeastern shore of Lake Superior. |370
+NA9|Southern Hudson Bay Taiga|This ecoregion encompasses the Hudson Bay Lowland(s), the most extensive wetland complex in North America and the third largest on Earth.|382
+NA9|Northern Canadian Shield Taiga|This ecoregion stretches from the eastern shore of Great Bear Lake, southeastward through the eastern half of Great Slave Lake, through the northeastern corner of Alberta, across northern Saskatchewan and the north shore of Lake Athabasca and eastward to southern Nunavut.|379
+NA9|Eastern Canadian Shield Taiga|This immense ecoregion stretches from Hudson and James Bays of the Arctic Ocean east to the Labrador Sea of the Atlantic Ocean and north to the southern portion of Ungava Bay of the Arctic Ocean.|374
+NA8|Mid-Canada Boreal Plains Forests|This ecoregion spans a large region of Canada, from just south of Wood Buffalo National Park in Alberta southeastward to just north of Winnipeg, Manitoba, encompassing Lake Winnipeg.|376
+NA8|Alberta-British Columbia Foothills Forests|This ecoregion is an ecotone or transitional region between the Rocky Mountains to the west and the Mid-Canada Boreal Plains to the east, but also between the Boreal Forests/Taiga biome to the north and the Temperate Conifer Forests biome to the south.|345
+NA7|Northwest Territories Taiga|This ecoregion is the northern extension of the generally flat Interior Plains of Canada, which include the boreal plains and prairie ecoregions to the south.|381
+NA7|Muskwa-Slave Lake Taiga|This ecoregion contains the Wood Buffalo National Park, the largest national park in Canada and the second largest national park in the world.|378
+NA6|Watson Highlands Taiga|This ecoregion includes a large part of the Yukon Plateau and other highlands, ranging from the southwestern edge of Northwest Territories in the east, westward across northern British Columbia and a larger area of southern Yukon Territory, almost to Alaska.|383
+NA6|Northern Cordillera Forests|This ecoregion encompasses the northern extent of the Rocky Mountains (what Canadians call the “Northern Rockies”) and the northern Coast Mountains, as well as some smaller ranges and the Stikine Plateau. |380
+NA6|Ogilvie-Mackenzie Alpine Tundra|This ecoregion encompasses the Ogilvie and Wernecke Mountains in the north, the Backbone Ranges, the Canyon Ranges, the Selwyn Mountains, and the eastern and southern Mackenzie Range.|419
+NA1|Kalaallit Nunaat High Arctic Tundra|This ecoregion is the most northern land on the planet. Only the most cold-hardy plants and animals are able to survive in this forbidding area. |418
+NA1|Kalaallit Nunaat Arctic Steppe|This ecoregion occupies the southwestern coast of Greenland, across Baffin Bay from Canada’s (Nunavut) Baffin Island, and the southern two-thirds of eastern Greenland, west and north of Iceland.|417
+PA8|Urals Montane Forest and Taiga|This ecoregion is centered on the Ural Mountains, a 2,000 km range that runs north-south through the Russian Federation, from the Arctic Ocean to the Ural River.|719
+PA8|Scandinavian and Russian Taiga|This is the largest ecoregion in Europe, stretching across Norway, Sweden, Finland, and into the northern part of Russia.|717
+PA3|Scandinavian Montane Birch Forest and Grasslands|The Southern part of this ecoregion is situated in Norway’s central highlands and the Northern part follows the Scandinavian mountains across Norway and Sweden, and touches the northern tip of Finland. |780
+PA3|Scandinavian Coastal Conifer Forests|This ecoregion follows the western Norwegian coast from Flekkefjord to Senja.|708
+PA2|Iceland Boreal Birch Forests and Alpine Tundra|Iceland is the second largest island in the North Atlantic Ocean with its northern edge situated just south of the Arctic Circle. |711
+PA4|Yamal-Gydan Tundra|This ecoregion lies in the middle of Russia’s arctic coast, to the south of the Kara Sea. |784
+PA4|Taimyr-Central Siberian Tundra|The northernmost continental land in the world, this ecoregion is a vast area of pristine polar desert, mountain and lowland tundra, rich wetlands and larch forests.|781
+PA4|Novosibirsk Islands Arctic Desert|The Novosibirsk archipelago is found off the north coast of eastern Siberia, dividing the Laptev and East Siberian Seas.|777
+PA4|Northwest Russian-Novaya Zemlya Tundra|This ecoregion spans 1,000 km of the North Coast of European Russia stretching from the White Sea-bound Kanin Peninsula in the West, to the Yugorsky Peninsula in the East.|776
+PA4|Northeast Siberian Coastal Tundra|This ecoregion covers northeastern Sakha, from Sytygan-Tala Bay to the Kolyma river delta.|775
+PA4|Kola Peninsula Tundra|This tundra stretches across the Northern shore of the Russian Federation’s Kola Peninsula, reaching into the northeasternmost tip of Norway.|774
+PA1|Russian Arctic Desert|Four major archipelagos lie within this region of the High Arctic.|778
+PA6|Kamchatka Tundra| This ecoregion covers two mountain ranges — the Sredinny mountains running down the center of the peninsula, and the more dissected Vostochniy range on the eastern side, with over 20 active volcanoes.|773
+PA6|Sakhalin Island Taiga|This ecoregion covers the majority of Sakhalin, a 948 km-long island separating the Sea of Okhotsk from the Sea of Japan in the far east of Russia. |716
+PA6|Okhotsk-Manchurian Taiga|This ecoregion is dominated by mountains and shaped by the Amur river. Reindeer and Siberian musk deer forage on lichen found in the forests of Dahurian larch and Yeddo spruce.|715
+PA6|Kamchatka-Kurile Meadows and Sparse Forests|This ecoregion is generally found from sea level to 900 m or, in central Kamchatka, as a zone between 350–800 m.|713
+PA6|Kamchatka Taiga|Between the Sredinny Mountain Range and the Vostochny Ridge, lies the Central Kamchatka Depression.|712
+PA5|Wrangel Island Arctic Desert|This ecoregion has unique ancient steppe and tundra vegetation, providing insight into life during Pleistocene times.|783
+PA5|Russian Bering Tundra|This ecoregion stretches between the Kolyma Mountains to the west, the Bering Sea coast to the east, and the Kamchatka peninsula to the south. The climate of the region is subarctic, influenced by the Pacific monsoon. |779
+PA5|Chukchi Peninsula Tundra|This ecoregion stretches from the Kolyma rivermouth to Cape Dezhnev, the easternmost point of mainland Asia. |772
+PA7|Trans-Baikal Bald Mountain Tundra|This ecoregion is located along a chain of mountaintops running from the northern edge of Lake Baikal to the coast of the Okhotsk Sea—a series of islands amongst the East Siberian and Okhotsk-Manchurian taiga that form a trans-Siberian route for plant dispersion.|782
+PA7|Cherskii-Kolyma Mountain Tundra|This ecoregion consists of numerous montane areas above the tree line, including the Verkhoyansk, Cherskiy, Ulakhan-Chistay, Moma, and Kolyma mountain ranges, spread within the Northeast Siberian Taiga ecoregion. |771
+PA7|West Siberian Taiga|This ecoregion stretches from the Ural Mountains in the west to the Yenisei River in the east. |720
+PA7|Trans-Baikal Conifer Forests|This ecoregion is centered on the Yablonoi and Khentii Mountains, straddling the border between Russia and Mongolia.|718
+PA7|Northeast Siberian Taiga|One of the coldest places on earth, this ecoregion has vast areas of pristine larch forest, tundra-bogs and wild coastlines, vital for a wide diversity of animals.|714
+PA7|East Siberian Taiga|This truly vast area is bordered by the Yenisei River to the west and the Verkhoyansk, Kolyma and Dzhugdzhur Mountain ranges to the east.|710
+PA9|Faroe Islands Boreal Grasslands|The Faroe Islands are an archipelago of 18 mountainous islands, of which only one is uninhabited, located in the North Atlantic Ocean between Scotland, Norway, and Iceland.|729
+PA9|Caledon Conifer Forests|This ecoregion covers upland Scotland, encompassing the Northwest Highlands, Grampian, and Cairngorm Mountains. |691
+PA9|North Atlantic Moist Mixed Forests|This ecoregion is restricted to areas in southwest and west Ireland, the western side of Scotland, including the Outer Hebrides, the far north of Scotland, and the Northern Isles (Orkney and Shetland). |672
+PA9|English Lowlands Beech Forests|This ecoregion encompasses the lowlands in the southeastern part of Britain.|663
+PA9|Celtic Broadleaf Forests|This ecoregion covers the majority of Ireland, the eastern half of Northern Ireland, the eastern edge and south of Scotland and the majority of England, excluding the English Lowlands Beech Forests in the south and east.|651
+PA12|Western European Broadleaf Forests|This ecoregion covers a large part of Western Europe, including the upland areas of massif central, central German uplands, Jura mountains, Bavarian plateau, and Bohemium massif. |686
+PA12|East European Forest Steppe|The majority of this ecoregion lies within the Russian Federation, extending into Ukraine, Moldova, the Carpathian foothills in Romania, and finally the Northeastern corner of Bulgaria.|661
+PA12|Central European Mixed Forests|Traversing the lowland plains of Northern Europe, this ecoregion spans large areas of Poland, Belarus, Lithuania, and Ukraine; small portions extend into Germany, Romania, Moldova, Austria, and the Russian Federation.|654
+PA11|Sarmatic Mixed Forests|These mixed forests cover the entirety of Latvia and Estonia, reaching into Belarus, Lithuania, Sweden, southwesternmost Finland, southernmost Norway, and the Russian Federation.|679
+PA10|Pyrenees Conifer and Mixed Forests|At the junction of Mediterranean and Central Europe lies a landscape sparsely covered by conifer and mixed forests, stretching up the slopes of the Pyrenees mountains.|676
+PA10|European Atlantic Mixed Forests|This ecoregion is located at the western coast of the Eurasian continent, extending from the south of France up to the northern most tip of Denmark.|664
+PA10|Cantabrian Mixed Forests|This ecoregion encompasses the Atlantic coast from the northern half of Portugal, across northern Spain to La Rochelle in France.|648
+PA10|Baltic Mixed Forests|The Baltic Mixed Forests stretch eastwards along the Baltic coastline from Denmark to northern Germany and Poland, and include the southernmost part of Sweden.|647
+PA15|Rodope Montane Mixed Forests|The Rodope Montane Mixed Forests ecoregion encompasses the Balkan massif and Rhodope massif.|678
+PA15|Dinaric Mountains Mixed Forests|Spanning across the north-eastern coastline of Adriatic Sea in Eastern Europe, this ecoregion represents one of the largest and most continuous tracts of forested habitats for large carnivores in the continent.|660
+PA15|Balkan Mixed Forests|This ecoregion covers much of Bulgaria, Kosovo, North Macedonia, southern Serbia and Romania, and the northernmost parts of Greece and Turkey, stretching from the Black Sea towards the Adriatic.|646
+PA13|Alps Conifer and Mixed Forests|Located in Central Europe, the Alps stretch across seven countries: France, Italy, Germany, Austria, Slovenia, Switzerland, and Liechtenstein. |689
+PA13|Po Basin Mixed Forests|Found scattered throughout one of the most industrialized regions in Europe are the last remaining pockets of riparian woodlands and wetlands.|675
+PA14|Carpathian Montane Forests|The Carpathian Mountain chain forms an arc across Central and Eastern Europe. 54% of the range lies within Romania, with the rest traversing the Czech Republic, Poland, Slovakia, and Ukraine.|692
+PA14|Pannonian Mixed Forests|This ecoregion covers the entirety of Hungary, and is only in part of other Central European countries.|674
+PA17|Central Anatolian Steppe|This ecoregion is comprised of five distinct areas in the Central Anatolian region of Turkey. |725
+PA17|Northern Anatolian Conifer and Deciduous Forests|These forests sprawl across the southern slopes of the Pontic Mountains, a vast range that sweeps across the Northern Anatolia region of Turkey.|703
+PA17|Euxine-Colchic Broadleaf Forests|These lush forests span the southern shoreline of the Black Sea, from the Southeasternmost corner of Bulgaria, across the Northern coastline of Turkey, and into lowland Georgia.|665
+PA17|Eastern Anatolian Deciduous Forests|This ecoregion lies within Turkey’s Anatolian plateau, ranging over the Western part of the East Anatolian Mountains. |662
+PA17|Crimean Submediterranean Forest Complex|This ecoregion is formed by two coastal enclaves on the Northern coast of the Black Sea. |658
+PA17|Central Anatolian Steppe and Woodlands|This ecoregion occupies Central Turkey, bounded by the Pontic Mountains in the North and the Taurus Mountains in the South.|652
+PA17|Caucasus Mixed Forests|This ecoregion follows the Greater and Lesser Caucasus Mountain ranges, spanning five countries: Georgia, Russia, Azerbaijan, Turkey, and Armenia. |650
+PA16|Pontic Steppe|This ecoregion arises in the northeasternmost corner of Bulgaria, extending across Southeast Romania, Southeast Moldova, Southeast Ukraine, through Russia, and into Northwest Kazakhstan. |735
+PA19|Tyrrhenian-Adriatic Sclerophyllous and Mixed Forests|This ecoregion extends along the coastal lowlands of the southern half of the Italian Peninsula, Sicily, and Corsica.|806
+PA19|South Apennine Mixed Montane Forests|This ecoregion is restricted to the high mountain massifs of the Italian regions of Basilicata, Calabria, and the island of Sicily.|802
+PA19|Italian Sclerophyllous and Semi-Deciduous Forests|The Italian Sclerophyllous and Semi-Deciduous Forests ecoregion covers the Italian peninsular from southeast France, south of the Po Plain to Basilicata in southern Italy.|795
+PA19|Illyrian Deciduous Forests|The ecoregion extends all along the coastal ranges of the Eastern Adriatic coast, from the eastern Alps in northern Italy to the northern Ionian coast between Albania and Greece. |794
+PA19|Corsican Montane Broadleaf and Mixed Forests|This ecoregion is restricted to the high and steep mountain massifs of Corsica Island, the fourth largest island in the Mediterranean Sea. |788
+PA19|Appenine Deciduous Montane Forests|Tucked away among the peaks of Italy’s Apennine mountains, which stretch from the Alps down to Sicily, are some of Europe’s best-preserved forests and montane grasslands.|644
+PA18|Southern Anatolian Montane Conifer and Deciduous Forests|The majority of this landscape stretches across the Southern Anatolia region of Turkey, reaching into the highlands of Lebanon, Syria, and a very small area in Israel.|804
+PA18|Pindus Mountains Mixed Forests|The ecoregion extends in a north-south direction from the mountain ranges of the Peloponese to the central Greek Parnasos, Smolikas, and Olympus, to northern Albania and western North Macedonia. |801
+PA18|Eastern Mediterranean Conifer-Broadleaf Forests|This ecoregion spans the Mediterranean coastline of the Middle East, running through Turkey, Lebanon, Israel, Palestine, Jordan, and the Syrian Arab Republic.|791
+PA18|Cyprus Mediterranean Forests|This ecoregion covers the entire area of the Republic of Cyprus, the third largest island in the Mediterranean. |790
+PA18|Crete Mediterranean Forests|Crete is the fifth largest island of the Mediterranean Basin and the ecoregion which encapsulates the whole island is restricted to high mountain ranges , hills, and low plains of the island.|789
+PA18|Anatolian Conifer and Deciduous Mixed Forests|This transitional ecoregion lies within Western Turkey, hosting a confluence of Mediterranean, Euro-Siberian, and Irano-Turanian flora. |786
+PA18|Aegean and Western Turkey Sclerophyllous and Mixed Forests|This ecoregion stretches mostly across Greece and Western Turkey, reaching into Southeast Macedonia, and Bulgaria; it encompasses many of the Aegean and Cyclades islands. |785
+PA21|Azores Temperate Mixed Forests|Situated more than 1,350 km west of the Portuguese coast, the Azores archipelago is a collection of several small volcanic islands|645
+PA20|Southwest Iberian Mediterranean Sclerophyllous and Mixed Forests|This ecoregion extends all along the low elevations, valleys, plains, and Atlantic coastal strip of the southwestern part of the Iberian Peninsula. |805
+PA20|Southeastern Iberian Shrubs and Woodlands|This ecoregion is restricted to a narrow strip of land on the south-eastern coast of Spain from Almería to Los Alcazares with a small addition just south of Murcia.|803
+PA20|Northwest Iberian Montane Forests|The northwestern Iberian Mountains extend from the Mediterranean southern slopes of the Cantabric Mountains to the central Iberian high mountain range. |800
+PA20|Northeastern Spain and Southern France Mediterranean Forests|This ecoregion encompasses Southern France, the coastal part of Valencia and Catalonia regions in North-eastern Spain, and the Balearic Islands.|799
+PA20|Iberian Sclerophyllous and Semi-Deciduous Forests|This ecoregion covers the central plateaus, valleys, and low plains of the interior portion of the Iberian Peninsula.|793
+PA20|Iberian Conifer Forests|This ecoregion spreads geographically all along the main central eastern and southeastern mountain ranges of Spain.|792
