@@ -6,7 +6,7 @@ Imagine a user-signup form where you use either their device location data, a pr
 
 We can group Regenerative solutions to anything from housing to growing plants -- by the EcoRegion, BioRegion, or Biomes in which they are effective.
 
-We can group Natural Building, Permaculture, Indigenous Wisodm, or any sort of workshop leader or educator by the EcoRegions or Biomes they know how to serve.
+We can group Natural Building, Permaculture, Indigenous Wisdom, or any sort of workshop leader or educator by the EcoRegions or Biomes they know how to serve.
 
 The possibilities are many, and I invite you to consider how your Regenerative Software project can help raise BioRegional awareness.
 
